@@ -90,6 +90,11 @@ p {
 .navbar-brand {
     padding: 9px 15px;
 }
+
+.navbrand {
+    padding: 10px !important;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         background-color: transparent;
@@ -168,6 +173,9 @@ p {
     .home_text{
         text-align: center;
     }
+    h1 {
+        font-size: 25px;
+    }
 
 }
 .home_text h1 {
@@ -217,7 +225,6 @@ p {
 tuor:active,
 tuor:visited {
     color: #A9ADB0;
-    margin-left: 20px;
     text-transform: uppercase;
     font-size: 19px;
     font-weight: 500;
@@ -226,6 +233,7 @@ tuor:visited {
     -moz-transition: all 1s;
     -o-transition: all 1s;
     transition: all 1s;
+    padding: 0;
 }
 .tuor:hover {
     color: #fff;

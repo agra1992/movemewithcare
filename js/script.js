@@ -321,7 +321,7 @@ $(document).ready(function() {
     var scrollAnimationTime = 1200,
         scrollAnimation = 'easeInOutExpo';
     $('a.scrollto').bind('click.smoothscroll', function(event) {
-        event.preventDefault();
+        event.defaultPrevented();
         var target = this.hash;
         $('html, body').stop().animate({
             'scrollTop': $(target).offset().top
