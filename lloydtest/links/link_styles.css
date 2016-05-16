@@ -1,0 +1,5 @@
+#text_links a {font-family: Arial, Helvetica, sans-serif;font-size:11pt;color: #F79A30;}
+#text_links a:link {text-decoration: none;}
+#text_links a:visited {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif;  color: #F79A30}
+#text_links a:hover {color: #DE7A09;text-decoration:none;}
+#text_links a:active {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif; color: #F79A30}

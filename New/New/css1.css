@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banbg {
+	background-image: url(Ban_bg.png);
+	background-repeat: repeat-x;
+}
+.botbg {
+	background-image: url(b_bg.png);
+	background-repeat: repeat-x;
+}
+.txtbody {
+	font-family: "lao ui";
+	font-size: 12px;
+	font-style: normal;
+	text-align: justify;
+}
+.bar_bg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	background-image: url(bar.png);
+	background-repeat: no-repeat;
+	font-weight: bold;
+	color: #FFFFFF;
+	height: 37px;
+	width: 263px;
+	text-align: center;
+	vertical-align: sub;
+}
+.mem_txt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #882122;
+	font-weight: bold;
+	text-decoration: none;
+}
+.mem_a_bg {
+	background-image: url(memarea_bg.png);
+	background-repeat: no-repeat;
+}
+.mem_sub_head {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+
+
+.heading1 {
+	font-family: "lao ui";
+	font-size: 14px;
+	color: #882122;
+	font-weight: bold;
+	background-position: center center;
+	text-align: center;
+}
+.bor_l_bg {
+	background-image: url(border_l_02.png);
+	background-repeat: repeat-y;
+}
+.bor_r_bg {
+	background-image: url(border_r_02.png);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+.txt_bg {
+	background-image: url(memarea.png);
+	background-repeat: no-repeat;
+}
+.wlink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}

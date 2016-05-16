@@ -1,0 +1,43 @@
+#main_side_add{
+    float:right;
+    width:200px;
+    padding-top:30px;
+    font-size:11px;
+    font-family:Verdana;
+    color:gray;
+    text-align:center;
+}
+#main_left_side_add{
+    float:left;
+    width:200px;
+    padding-top:30px;
+    font-size:11px;
+    font-family:Verdana;
+    color:gray;
+    text-align:center;
+}
+#main_bottom_add{
+    float:top;
+    font-size:11px;
+    font-family:Verdana;
+    color:gray;
+    text-align:center;
+}
+#title{
+    float:top;
+    color:#F79A30;
+    font-size:14px;
+}
+
+#add_cell{
+    float:top;
+    margin-top:25px;
+}
+
+#add_number{
+    float:top;
+    border-top:3px solid #EDFBEB;
+    border-bottom:1px solid #EDFBEB;
+    padding-top:10px;
+    padding-bottom:8px;
+}

@@ -1,0 +1,11 @@
+#scrollmar{margin-top:-12px;margin-bottom:12px;display: inline;height:40px;padding: 0px;background-color:#036AB5;background-image: url(images/midpanel_a.gif);background-repeat:repeat-x;}
+#idiv{float:left;clear:none;content:"";display:block;overflow: hidden;line-height: 0pt;}
+#whoarewe{float:right;text-align:left;clear:none!important;clear:both;height:180px;content: "";display: inline;background-image: url('images/default_r12_c26.jpg');background-repeat:repeat-x;background-color:#FFF;font-family: Arial, Verdana; font-size: 12px; color: #111111}
+#wawtext{margin:20px!important;margin:10px;text-align:left;height:110px;width:362px;}
+#lmenu{margin-top:22px!important;margin-top:30px;position:absolute;left:0px;top:320px;height:25px;width:400px;background-repeat: no-repeat;visibility: visible;content: "";}
+#last{display:inline!important;display:block;text-align: left;font-family: Arial, Verdana; font-size: 12px; color: #111111;}
+#bottom{float:bottom;display:block;content:"";marigin-top:55px;margin:0px auto;margin-bottom: 0px;height:55px;width:857px;background-color: #036AB5;background-image: url('images/default_r46_c26.jpg');}
+#copy{margin-top:0px;margin-bottom: 0px;}
+#rtext{width:400px;height: 200px!important;height:20px;margin-left:430px;text-align: left;content: "";margin-left:-330px;}
+
+

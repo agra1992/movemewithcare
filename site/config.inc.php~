@@ -1,0 +1,27 @@
+<?php
+
+$CN_TEMPLATE = 'templ1.htm';
+$CN_SUFFIX = ' -- Move Me With Care.com';
+$CN_DEBUG = FALSE;
+$CN_SERVER_NAME = 'www.movemewithcare.com';
+$CN_TITLE= 'Move Me with care A network of accredited Full Service Movers,Loading,Unloading,Packing,UnPacking,Transportation,Storage Facilites';
+
+$db_host = "localhost";
+$db_user = "movemewi";
+$db_password = "withcare";
+$db_name = "movemewi_movemewithcare";
+$db_locator_name = "movemewi_movemewithcare";
+
+$cs_laborer_cost = 250;
+$CN_FULL_PRICE = "<s>$250</s> <font color=\"#FF0000\">$100</font>/month special price";
+$cs_labor[1]=195;
+$cs_labor[2]=260;
+$cs_labor[3]=310;
+$cs_labor[4]=375;
+$cs_labor[5]=520;
+$cs_additional[1]=50;
+$cs_additional[2]=80;
+$cs_additional[3]=95;
+$cs_additional[4]=105;
+$cs_additional[5]=120;
+?>

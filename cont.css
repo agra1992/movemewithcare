@@ -1,0 +1,18 @@
+/* CSS Document */
+.button
+{
+    BORDER-RIGHT: 1px solid;
+    PADDING-RIGHT: 2px;
+    BORDER-TOP: 1px solid;
+    PADDING-LEFT: 4px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 2px;
+    BORDER-LEFT: 1px solid;
+    COLOR: #ffffff;
+    PADDING-TOP: 3px;
+    BORDER-BOTTOM: 1px solid;
+    FONT-FAMILY: Verdana, Arial, Helvetica;
+    HEIGHT: 22px;
+    BACKGROUND-COLOR: #0080C0
+}

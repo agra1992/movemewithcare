@@ -1,0 +1,27 @@
+[08-Feb-2008 19:08:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/EManager/link_manager/index.php on line 33
+[08-Feb-2008 19:08:35] PHP Warning:  main(../config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:08:35] PHP Warning:  main(../config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:08:35] PHP Warning:  main(../config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:08:35] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening '../config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:08:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/EManager/link_manager/index.php:32) in /home/movemewi/public_html/EManager/link_manager/index.php on line 34
+[08-Feb-2008 19:09:27] PHP Warning:  main(.../config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:09:27] PHP Warning:  main(.../config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:09:27] PHP Warning:  main(.../config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:09:27] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening '.../config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/EManager/link_manager/index.php on line 32
+[08-Feb-2008 19:09:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/EManager/link_manager/index.php:32) in /home/movemewi/public_html/EManager/link_manager/index.php on line 34
+[09-Feb-2008 09:48:54] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 600
+[09-Feb-2008 09:49:10] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 602
+[09-Feb-2008 09:50:29] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 602
+[09-Feb-2008 09:50:49] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 601
+[09-Feb-2008 09:51:19] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 602
+[09-Feb-2008 09:51:50] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 602
+[09-Feb-2008 09:52:15] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 602
+[09-Feb-2008 09:52:36] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 602
+[09-Feb-2008 09:52:49] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 601
+[09-Feb-2008 09:53:01] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 600
+[09-Feb-2008 09:53:45] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/link_manager/index.php on line 600
+[09-Feb-2008 10:09:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/link_manager/index.php on line 164
+[09-Feb-2008 10:09:56] PHP Parse error:  syntax error, unexpected '"' in /home/movemewi/public_html/EManager/link_manager/index.php on line 157
+[09-Feb-2008 10:14:00] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/movemewi/public_html/EManager/link_manager/index.php on line 158
+[09-Feb-2008 10:14:00] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/link_manager/index.php on line 158
+[09-Feb-2008 10:17:20] PHP Parse error:  syntax error, unexpected '.' in /home/movemewi/public_html/EManager/link_manager/index.php on line 159

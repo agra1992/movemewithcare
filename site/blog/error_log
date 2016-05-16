@@ -1,0 +1,12 @@
+[27-Jan-2008 22:30:11] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/blog/skins/default/top_panel.php on line 2
+[23-Feb-2008 16:23:57] PHP Warning:  file_get_contents(http://movemewithcare.com/	UniversalmovingGuide2008.pdf) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 435
+[23-Feb-2008 16:44:03] PHP Warning:  file_get_contents(../	UniversalmovingGuide2008.pdf) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 430
+[23-Feb-2008 16:44:23] PHP Warning:  file_get_contents(.../	UniversalmovingGuide2008.pdf) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 430
+[23-Feb-2008 16:45:09] PHP Warning:  file_get_contents(/public_html/UniversalmovingGuide2008.pdf) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 430
+[23-Feb-2008 16:52:17] PHP Parse error:  syntax error, unexpected '=' in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 433
+[23-Feb-2008 16:52:44] PHP Parse error:  syntax error, unexpected '=' in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 433
+[23-Feb-2008 16:52:59] PHP Parse error:  syntax error, unexpected '=' in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 434
+[24-Feb-2008 21:22:04] PHP Parse error:  syntax error, unexpected ';', expecting T_OLD_FUNCTION or T_FUNCTION or T_VAR or '}' in /home/movemewi/public_html/blog/nucleus/libs/ACTION.php on line 414
+[01-Dec-2009 20:51:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[25-Dec-2009 14:42:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279

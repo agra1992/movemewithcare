@@ -1,0 +1,407 @@
+[03-Feb-2007 10:17:49] PHP Warning:  main(FCKeditor/fckeditor.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movin3/public_html/EManager/template_details.php on line 5
+[03-Feb-2007 10:17:49] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'FCKeditor/fckeditor.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movin3/public_html/EManager/template_details.php on line 5
+[03-Feb-2007 10:17:49] PHP Fatal error:  Cannot instantiate non-existent class:  fckeditor in /home/movin3/public_html/EManager/template_details.php on line 33
+[03-Feb-2007 10:19:49] PHP Warning:  main(FCKeditor/fckeditor.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movin3/public_html/EManager/template_details.php on line 5
+[03-Feb-2007 10:19:49] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'FCKeditor/fckeditor.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movin3/public_html/EManager/template_details.php on line 5
+[03-Feb-2007 10:19:49] PHP Fatal error:  Cannot instantiate non-existent class:  fckeditor in /home/movin3/public_html/EManager/template_details.php on line 33
+[18-Mar-2007 11:47:10] PHP Warning:  getimagesize(../parth/logos/becomeamember.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movin3/public_html/EManager/print_page.php on line 492
+[10-Sep-2007 09:04:03] PHP Warning:  getimagesize(../logos/Dan.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[10-Sep-2007 11:00:39] PHP Warning:  getimagesize(../logos/Dan.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[12-Sep-2007 07:37:35] PHP Warning:  getimagesize(../logos/Dan.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[18-Sep-2007 10:47:04] PHP Warning:  getimagesize(../logos/1081) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[18-Sep-2007 10:47:06] PHP Warning:  getimagesize(../logos/1081) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[18-Sep-2007 20:16:17] PHP Warning:  getimagesize(../logos/90015104646f030dc48df5.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 14:52:16] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 14:59:26] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:24:33] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:25:20] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:29:17] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:29:19] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:29:36] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:29:38] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:43:11] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 15:43:13] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 16:13:13] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 16:13:15] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 311
+[19-Sep-2007 16:18:28] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 318
+[19-Sep-2007 16:18:29] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 318
+[19-Sep-2007 16:24:21] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 318
+[19-Sep-2007 16:24:22] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 318
+[19-Sep-2007 16:27:00] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:27:01] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:27:57] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:27:58] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:31:20] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:31:22] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:37:39] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:37:42] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 327
+[19-Sep-2007 16:40:17] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 16:40:18] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 16:52:55] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 16:53:47] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 16:55:48] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 16:56:15] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 17:04:33] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 17:04:37] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 328
+[19-Sep-2007 17:06:10] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[19-Sep-2007 17:06:13] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[19-Sep-2007 17:11:29] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[19-Sep-2007 17:15:58] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[19-Sep-2007 17:16:00] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[19-Sep-2007 17:17:45] PHP Warning:  getimagesize(../logos/NoLogo.gif) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[20-Sep-2007 10:01:27] PHP Warning:  getimagesize(../logos/161279312246f26031e3ec4.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[20-Sep-2007 10:06:53] PHP Warning:  getimagesize(../logos/161279312246f26031e3ec4.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[20-Sep-2007 10:08:00] PHP Warning:  getimagesize(../logos/201681562546f264a1bb577.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[20-Sep-2007 10:08:28] PHP Warning:  getimagesize(../logos/201681562546f264a1bb577.JPG) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/edit_Member.php on line 326
+[16-Oct-2007 12:31:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/proace/public_html/EManager/class.database.php on line 20
+[17-Oct-2007 01:21:46] PHP Parse error:  syntax error, unexpected '*' in /home/proace/public_html/EManager/update_member.php on line 43
+[08-Nov-2007 15:04:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'sql4.byethost12.com' (4) in /home/movemewi/public_html/EManager/class.database.php on line 20
+[08-Nov-2007 15:07:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'sql4.byethost12.com' (4) in /home/movemewi/public_html/EManager/class.database.php on line 20
+[10-Nov-2007 15:24:20] PHP Fatal error:  Cannot redeclare send_mail() (previously declared in /home/movemewi/public_html/EManager/mailer.php:3) in /home/movemewi/public_html/mailer.php on line 3
+[10-Nov-2007 15:49:44] PHP Warning:  mysql_fetch_array() [<a href='function.mysql-fetch-array'>function.mysql-fetch-array</a>]: The result type should be either MYSQL_NUM, MYSQL_ASSOC or MYSQL_BOTH. in /home/movemewi/public_html/EManager/validate.php on line 31
+[10-Nov-2007 15:49:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 31
+[10-Nov-2007 15:50:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 31
+[10-Nov-2007 15:51:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 31
+[10-Nov-2007 16:03:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/EManager/validate.php on line 20
+[10-Nov-2007 16:04:16] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/validate.php on line 61
+[10-Nov-2007 16:05:03] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/validate.php on line 61
+[10-Nov-2007 16:06:00] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/validate.php on line 58
+[10-Nov-2007 16:06:27] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/validate.php on line 62
+[10-Nov-2007 16:07:15] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/validate.php on line 54
+[10-Nov-2007 16:36:08] PHP Warning:  mysql_fetch_array() [<a href='function.mysql-fetch-array'>function.mysql-fetch-array</a>]: The result type should be either MYSQL_NUM, MYSQL_ASSOC or MYSQL_BOTH. in /home/movemewi/public_html/EManager/mailsend_members.php on line 50
+[10-Nov-2007 16:36:08] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 44
+[10-Nov-2007 16:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 44
+[10-Nov-2007 16:38:36] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 44
+[10-Nov-2007 16:59:02] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 44
+[10-Nov-2007 17:00:19] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:00:37] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:01:22] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:01:27] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:02:04] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:03:43] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:04:08] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:05:14] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 17:05:45] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:40:02] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:48:16] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:48:16] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:48:28] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:49:18] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:49:24] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:49:25] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:50:10] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:52:20] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:52:40] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:53:53] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:57:05] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:58:20] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:59:14] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 18:59:26] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 19:00:32] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/mailsend_members.php on line 110
+[10-Nov-2007 19:00:57] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/mailsend_members.php on line 110
+[10-Nov-2007 19:01:31] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 19:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[10-Nov-2007 19:06:49] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:44:56] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:45:20] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:46:50] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:47:44] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:48:49] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:49:46] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 10:51:17] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/mailsend_members.php on line 45
+[11-Nov-2007 12:13:49] PHP Fatal error:  Cannot instantiate non-existent class:  fckeditor in /home/movemewi/public_html/EManager/members_mails_send.php on line 8
+[11-Nov-2007 12:13:49] PHP Fatal error:  Cannot instantiate non-existent class:  fckeditor in /home/movemewi/public_html/EManager/members_mails_send.php on line 8
+[11-Nov-2007 13:43:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/EManager/deadhaul.php on line 8
+[11-Nov-2007 13:44:13] PHP Fatal error:  Cannot redeclare class database in /home/movemewi/public_html/EManager/class.database.php on line 24
+[11-Nov-2007 13:44:13] PHP Fatal error:  Cannot redeclare class database in /home/movemewi/public_html/EManager/class.database.php on line 24
+[11-Nov-2007 13:52:16] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 81
+[11-Nov-2007 13:52:18] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 81
+[11-Nov-2007 13:52:21] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 81
+[11-Nov-2007 13:52:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 81
+[11-Nov-2007 13:54:06] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/deadhaul.php on line 88
+[11-Nov-2007 17:48:38] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 141
+[11-Nov-2007 17:50:11] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 141
+[11-Nov-2007 17:50:15] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 141
+[11-Nov-2007 17:51:09] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/deadhaul.php on line 97
+[11-Nov-2007 17:53:52] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 141
+[11-Nov-2007 19:35:07] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:36:30] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:36:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:38:11] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:39:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:40:05] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:40:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:41:50] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:42:24] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 135
+[11-Nov-2007 19:42:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 142
+[11-Nov-2007 19:43:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 161
+[11-Nov-2007 19:43:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 161
+[11-Nov-2007 19:44:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 138
+[11-Nov-2007 19:46:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 169
+[12-Nov-2007 17:26:54] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/deadhaul.php on line 409
+[12-Nov-2007 18:02:50] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 407
+[12-Nov-2007 18:02:51] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 407
+[12-Nov-2007 18:02:53] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/movemewi/public_html/EManager/deadhaul.php on line 407
+[12-Nov-2007 18:05:46] PHP Fatal error:  Call to undefined function:  vardump() in /home/movemewi/public_html/EManager/members_mails_send.php on line 26
+[12-Nov-2007 18:05:46] PHP Fatal error:  Call to undefined function:  vardump() in /home/movemewi/public_html/EManager/members_mails_send.php on line 26
+[12-Nov-2007 18:06:16] PHP Parse error:  syntax error, unexpected T_VAR in /home/movemewi/public_html/EManager/members_mails_send.php on line 26
+[12-Nov-2007 18:10:40] PHP Fatal error:  Call to undefined function:  var_dum() in /home/movemewi/public_html/EManager/members_mails_send.php on line 26
+[12-Nov-2007 18:10:40] PHP Fatal error:  Call to undefined function:  var_dum() in /home/movemewi/public_html/EManager/members_mails_send.php on line 26
+[12-Nov-2007 18:28:19] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/movemewi/public_html/EManager/members_mails_send.php on line 27
+[12-Nov-2007 18:28:37] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/movemewi/public_html/EManager/members_mails_send.php on line 27
+[12-Nov-2007 18:37:07] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/members_mails_send.php on line 43
+[12-Nov-2007 18:42:11] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/movemewi/public_html/EManager/members_mails_send.php on line 46
+[12-Nov-2007 18:50:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/members_mails_send.php on line 30
+[12-Nov-2007 19:12:06] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/EManager/mailsend_members.php on line 110
+[12-Nov-2007 19:14:11] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/EManager/mailsend_members.php on line 103
+[12-Nov-2007 19:15:58] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/EManager/mailsend_members.php on line 109
+[12-Nov-2007 19:16:13] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/EManager/mailsend_members.php on line 103
+[12-Nov-2007 19:16:47] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/EManager/mailsend_members.php on line 109
+[12-Nov-2007 19:18:38] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/EManager/mailsend_members.php on line 75
+[12-Nov-2007 19:29:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 100
+[12-Nov-2007 19:29:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 100
+[12-Nov-2007 19:31:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 101
+[12-Nov-2007 19:32:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 76
+[12-Nov-2007 19:34:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 101
+[12-Nov-2007 19:35:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 101
+[12-Nov-2007 19:35:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 101
+[12-Nov-2007 19:38:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 101
+[12-Nov-2007 19:38:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 101
+[12-Nov-2007 19:39:25] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/mailsend_members.php on line 109
+[12-Nov-2007 19:39:45] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/mailsend_members.php on line 110
+[12-Nov-2007 19:40:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 92
+[12-Nov-2007 19:40:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 102
+[12-Nov-2007 19:48:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/mailsend_members.php on line 102
+[12-Nov-2007 20:31:33] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/deadhaul.php on line 91
+[12-Nov-2007 20:32:16] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/deadhaul.php on line 91
+[12-Nov-2007 20:34:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/deadhaul.php on line 59
+[12-Nov-2007 20:48:06] PHP Parse error:  syntax error, unexpected T_IF in /home/movemewi/public_html/EManager/deadhaul.php on line 103
+[16-Nov-2007 16:34:35] PHP Parse error:  syntax error, unexpected T_BREAK in /home/movemewi/public_html/EManager/members.php on line 150
+[16-Nov-2007 16:46:26] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/movemewi/public_html/EManager/members_mails_send.php on line 46
+[16-Nov-2007 18:26:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/EManager/mailer.php:16) in /home/movemewi/public_html/EManager/change_member_status.php on line 51
+[23-Nov-2007 11:46:02] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/order_details1.php on line 411
+[23-Nov-2007 11:46:28] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/order_details1.php on line 411
+[23-Nov-2007 12:03:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[23-Nov-2007 12:03:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[23-Nov-2007 12:08:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[23-Nov-2007 12:08:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[23-Nov-2007 12:09:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[23-Nov-2007 12:16:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[23-Nov-2007 12:32:13] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/movemewi/public_html/EManager/cu_order1.php on line 229
+[23-Nov-2007 12:32:22] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/movemewi/public_html/EManager/cu_order1.php on line 229
+[23-Nov-2007 12:52:37] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/cancel_order.php on line 42
+[23-Nov-2007 12:53:47] PHP Warning:  Wrong parameter count for mysql_fetch_row() in /home/movemewi/public_html/EManager/cancel_order.php on line 42
+[23-Nov-2007 12:54:09] PHP Warning:  Wrong parameter count for mysql_fetch_row() in /home/movemewi/public_html/EManager/cancel_order.php on line 42
+[23-Nov-2007 13:36:04] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/cancel_order.php on line 65
+[23-Nov-2007 13:36:52] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/cancel_order.php on line 65
+[23-Nov-2007 13:37:04] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/cancel_order.php on line 67
+[23-Nov-2007 13:37:38] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/cancel_order.php on line 66
+[23-Nov-2007 13:38:19] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/cancel_order.php on line 29
+[23-Nov-2007 13:39:04] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/cancel_order.php on line 29
+[23-Nov-2007 13:41:38] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/cancel_order.php on line 92
+[23-Nov-2007 14:17:14] PHP Parse error:  syntax error, unexpected T_ECHO in /home/movemewi/public_html/EManager/cancel_order.php on line 113
+[23-Nov-2007 15:02:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/movemewi/public_html/EManager/cancel_order.php on line 126
+[23-Nov-2007 18:03:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/EManager/resend.php on line 11
+[23-Nov-2007 18:11:06] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 18
+[23-Nov-2007 18:12:20] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 18
+[23-Nov-2007 18:12:53] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 13
+[23-Nov-2007 18:13:21] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 13
+[23-Nov-2007 18:14:57] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 13
+[23-Nov-2007 18:15:13] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 14
+[23-Nov-2007 18:17:03] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 19
+[23-Nov-2007 18:17:20] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 19
+[23-Nov-2007 18:18:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/resend.php on line 12
+[23-Nov-2007 18:18:30] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 18
+[23-Nov-2007 18:22:11] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 29
+[23-Nov-2007 18:32:33] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/resend.php on line 207
+[23-Nov-2007 18:34:29] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/resend.php on line 146
+[23-Nov-2007 18:34:47] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 12
+[23-Nov-2007 18:35:30] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 13
+[24-Nov-2007 10:19:36] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/cu_order1.php on line 313
+[24-Nov-2007 10:20:15] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/cu_order1.php on line 313
+[24-Nov-2007 11:58:12] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/removeorder_action.php on line 32
+[25-Nov-2007 14:03:23] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/members_mails_send.php on line 84
+[25-Nov-2007 14:08:48] PHP Fatal error:  Call to a member function on a non-object in /home/movemewi/public_html/EManager/members_mails_send.php on line 32
+[25-Nov-2007 14:09:36] PHP Fatal error:  Call to a member function on a non-object in /home/movemewi/public_html/EManager/members_mails_send.php on line 32
+[25-Nov-2007 14:12:21] PHP Fatal error:  Call to a member function on a non-object in /home/movemewi/public_html/EManager/members_mails_send.php on line 32
+[29-Nov-2007 22:04:29] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/advertise.php on line 43
+[29-Nov-2007 22:32:26] PHP Parse error:  syntax error, unexpected T_RETURN in /home/movemewi/public_html/EManager/edit_advertise.php on line 20
+[29-Nov-2007 22:34:05] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/edit_advertise.php on line 15
+[29-Nov-2007 22:36:21] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/edit_advertise.php on line 62
+[29-Nov-2007 22:37:52] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/edit_advertise.php on line 61
+[29-Nov-2007 22:38:22] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/edit_advertise.php on line 61
+[29-Nov-2007 22:44:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/EManager/upload_image.php on line 19
+[29-Nov-2007 22:44:22] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:22] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:22] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:22] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:22] PHP Warning:  move_uploaded_file(adds/527755777474f9526d2bf2.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 16
+[29-Nov-2007 22:44:22] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpqRrbaX' to 'adds/527755777474f9526d2bf2.jpg' in /home/movemewi/public_html/EManager/upload_image.php on line 16
+[29-Nov-2007 22:44:34] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:34] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:34] PHP Warning:  main(config.inc.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:34] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/EManager/upload_image.php on line 4
+[29-Nov-2007 22:44:34] PHP Warning:  move_uploaded_file(adds/589790373474f9532d48b2.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 16
+[29-Nov-2007 22:44:34] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpuUpX0s' to 'adds/589790373474f9532d48b2.jpg' in /home/movemewi/public_html/EManager/upload_image.php on line 16
+[29-Nov-2007 22:46:01] PHP Warning:  unlink(../adds/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/movemewi/public_html/EManager/upload_image.php on line 10
+[29-Nov-2007 22:46:40] PHP Warning:  unlink(../adds/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/movemewi/public_html/EManager/upload_image.php on line 10
+[29-Nov-2007 22:47:05] PHP Warning:  move_uploaded_file(./adds/2050295395474f95c95e07e.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/EManager/upload_image.php on line 15
+[29-Nov-2007 22:47:05] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php1ctuLg' to './adds/2050295395474f95c95e07e.jpg' in /home/movemewi/public_html/EManager/upload_image.php on line 15
+[29-Nov-2007 22:49:11] PHP Warning:  unlink(../adds/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/movemewi/public_html/EManager/upload_image.php on line 10
+[01-Dec-2007 12:35:55] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/affiliates.php on line 247
+[02-Dec-2007 12:05:19] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/affiliates.php on line 265
+[02-Dec-2007 12:05:51] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/affiliates.php on line 265
+[02-Dec-2007 12:20:54] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/affiliates.php on line 267
+[02-Dec-2007 12:21:01] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/affiliates.php on line 267
+[12-Dec-2007 21:09:12] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/advertise.php on line 50
+[15-Dec-2007 16:01:11] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/EManager/cu_order1.php on line 160
+[15-Dec-2007 16:01:37] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/EManager/cu_order1.php on line 161
+[15-Dec-2007 16:02:01] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/EManager/cu_order1.php on line 161
+[15-Dec-2007 16:02:13] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/EManager/cu_order1.php on line 161
+[15-Dec-2007 16:06:29] PHP Parse error:  syntax error, unexpected T_WHILE in /home/movemewi/public_html/EManager/cu_order1.php on line 248
+[15-Dec-2007 18:46:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/validate.php on line 36
+[15-Dec-2007 18:48:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/validate.php on line 36
+[15-Dec-2007 18:49:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 33
+[15-Dec-2007 18:50:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 33
+[15-Dec-2007 18:52:49] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 34
+[15-Dec-2007 18:54:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 34
+[15-Dec-2007 18:56:07] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/validate.php on line 71
+[15-Dec-2007 18:56:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 33
+[15-Dec-2007 18:56:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 34
+[17-Dec-2007 21:33:19] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 321
+[17-Dec-2007 21:33:52] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 321
+[17-Dec-2007 21:33:55] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 321
+[17-Dec-2007 22:22:01] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 321
+[17-Dec-2007 22:23:46] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 321
+[17-Dec-2007 22:23:56] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 322
+[17-Dec-2007 22:24:10] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 322
+[17-Dec-2007 22:24:39] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 323
+[17-Dec-2007 22:24:56] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 322
+[17-Dec-2007 22:25:09] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 327
+[17-Dec-2007 22:25:23] PHP Parse error:  syntax error, unexpected '>' in /home/movemewi/public_html/EManager/cu_order1.php on line 327
+[17-Dec-2007 22:25:43] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/movemewi/public_html/EManager/cu_order1.php on line 327
+[19-Dec-2007 17:14:40] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/order_details1.php on line 27
+[19-Dec-2007 17:20:17] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/order_details1.php on line 404
+[27-Dec-2007 12:42:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[27-Dec-2007 12:43:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[27-Dec-2007 12:44:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 51
+[27-Dec-2007 16:03:09] PHP Parse error:  syntax error, unexpected '@', expecting ',' or ';' in /home/movemewi/public_html/EManager/email_log.php on line 30
+[27-Dec-2007 16:12:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/validate.php on line 69
+[27-Dec-2007 16:41:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/email_log.php on line 21
+[28-Dec-2007 16:31:42] PHP Parse error:  syntax error, unexpected T_EXIT in /home/movemewi/public_html/EManager/proace_accept.php on line 956
+[28-Dec-2007 16:32:06] PHP Parse error:  syntax error, unexpected T_EXIT in /home/movemewi/public_html/EManager/proace_accept.php on line 957
+[28-Dec-2007 16:32:24] PHP Parse error:  syntax error, unexpected T_EXIT in /home/movemewi/public_html/EManager/proace_accept.php on line 958
+[28-Dec-2007 16:33:11] PHP Parse error:  syntax error, unexpected T_EXIT in /home/movemewi/public_html/EManager/proace_accept.php on line 957
+[28-Dec-2007 16:33:23] PHP Parse error:  syntax error, unexpected T_EXIT in /home/movemewi/public_html/EManager/proace_accept.php on line 958
+[28-Dec-2007 16:36:45] PHP Fatal error:  Cannot redeclare send_mail() (previously declared in /home/movemewi/public_html/EManager/mailer.php:3) in /home/movemewi/public_html/EManager/mailer.php on line 3
+[29-Dec-2007 15:18:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/EManager/resend.php on line 85
+[29-Dec-2007 15:18:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/EManager/resend.php on line 85
+[29-Dec-2007 15:18:47] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 86
+[29-Dec-2007 15:18:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/EManager/resend.php on line 140
+[29-Dec-2007 15:18:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/EManager/resend.php on line 140
+[29-Dec-2007 15:19:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/EManager/resend.php on line 86
+[29-Dec-2007 15:19:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/EManager/resend.php on line 86
+[29-Dec-2007 15:19:12] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/resend.php on line 87
+[29-Dec-2007 15:19:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/EManager/resend.php on line 142
+[29-Dec-2007 15:19:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/EManager/resend.php on line 142
+[29-Dec-2007 15:20:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/EManager/resend.php on line 86
+[29-Dec-2007 15:20:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/EManager/resend.php on line 86
+[29-Dec-2007 15:20:58] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 15:22:46] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 15:23:29] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 15:24:31] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 15:25:03] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 15:25:30] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 15:25:36] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 249
+[29-Dec-2007 15:26:40] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/EManager/resend.php on line 212
+[29-Dec-2007 16:48:08] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/movemewi/public_html/EManager/orders.php on line 34
+[29-Dec-2007 16:48:30] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/movemewi/public_html/EManager/orders.php on line 34
+[07-Jan-2008 18:26:22] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/links.php on line 40
+[07-Jan-2008 18:48:37] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/add_link.php on line 47
+[07-Jan-2008 18:50:09] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/add_link.php on line 48
+[07-Jan-2008 18:50:17] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/add_link.php on line 48
+[07-Jan-2008 18:50:35] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/add_link.php on line 48
+[07-Jan-2008 18:50:37] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/add_link.php on line 48
+[07-Jan-2008 18:57:04] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 31
+[07-Jan-2008 18:57:18] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 31
+[07-Jan-2008 18:57:22] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 31
+[07-Jan-2008 18:57:27] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 31
+[07-Jan-2008 19:04:16] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 77
+[07-Jan-2008 19:04:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/movemewi/public_html/EManager/add_link.php on line 77
+[07-Jan-2008 19:04:52] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ']' in /home/movemewi/public_html/EManager/add_link.php on line 77
+[07-Jan-2008 19:06:58] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/add_link.php on line 67
+[07-Jan-2008 19:27:50] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/add_link.php on line 100
+[07-Jan-2008 19:28:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/add_link.php on line 102
+[07-Jan-2008 19:32:53] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/EManager/add_link.php on line 98
+[07-Jan-2008 19:35:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 80
+[07-Jan-2008 19:35:39] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/EManager/add_link.php on line 81
+[07-Jan-2008 19:36:08] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/add_link.php on line 103
+[07-Jan-2008 19:41:00] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/add_link.php on line 108
+[07-Jan-2008 19:41:16] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/add_link.php on line 110
+[17-Jan-2008 17:00:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/EManager/header.php:11) in /home/movemewi/public_html/EManager/add_link.php on line 67
+[26-Jan-2008 16:56:48] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/EManager/edit_affiliate.php on line 333
+[26-Jan-2008 17:07:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/EManager/upload_member_image.php:2) in /home/movemewi/public_html/EManager/upload_member_image.php on line 3
+[26-Jan-2008 17:25:12] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 46
+[26-Jan-2008 17:25:13] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 46
+[26-Jan-2008 17:27:32] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 46
+[26-Jan-2008 17:27:32] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/class.database.php on line 46
+[15-Mar-2008 12:56:36] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/job_stats.php on line 10
+[15-Mar-2008 13:53:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 89
+[15-Mar-2008 14:00:22] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/lead_stats.php on line 102
+[15-Mar-2008 14:00:38] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/lead_stats.php on line 102
+[15-Mar-2008 14:00:41] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/EManager/lead_stats.php on line 102
+[15-Mar-2008 14:00:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 92
+[15-Mar-2008 14:04:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 92
+[15-Mar-2008 14:04:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 92
+[15-Mar-2008 14:05:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 92
+[15-Mar-2008 14:05:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 93
+[16-Mar-2008 10:08:15] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/lead_stats.php on line 46
+[16-Mar-2008 10:08:35] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/EManager/lead_stats.php on line 47
+[16-Mar-2008 10:08:48] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/lead_stats.php on line 151
+[16-Mar-2008 10:09:18] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/lead_stats.php on line 152
+[16-Mar-2008 10:09:37] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/lead_stats.php on line 153
+[16-Mar-2008 10:09:52] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/EManager/lead_stats.php on line 139
+[16-Mar-2008 10:10:23] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/lead_stats.php on line 33
+[16-Mar-2008 14:22:25] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/movemewi/public_html/EManager/lead_stats.php on line 21
+[18-Mar-2008 16:40:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/lead_stats.php on line 146
+[18-Mar-2008 16:41:07] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/lead_stats.php on line 146
+[18-Mar-2008 16:41:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/lead_stats.php on line 146
+[18-Mar-2008 16:41:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/lead_stats.php on line 148
+[18-Mar-2008 16:41:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/EManager/lead_stats.php on line 149
+[24-Apr-2008 10:44:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/view_emails.php on line 18
+[24-Apr-2008 10:44:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/EManager/view_emails.php on line 18
+[31-May-2008 09:39:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 49
+[31-May-2008 09:39:45] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 92
+[31-May-2008 09:40:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 34
+[31-May-2008 09:40:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 34
+[31-May-2008 09:41:56] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 6
+[02-Jun-2008 11:12:00] PHP Fatal error:  Cannot redeclare send_mail() (previously declared in /home/movemewi/public_html/lloydtest/EManager/mailer.php:3) in /home/movemewi/public_html/lloydtest/EManager/mailer.php on line 3
+[02-Jun-2008 11:13:09] PHP Fatal error:  Cannot redeclare send_mail() (previously declared in /home/movemewi/public_html/lloydtest/EManager/mailer.php:3) in /home/movemewi/public_html/lloydtest/EManager/mailer.php on line 3
+[02-Jun-2008 11:23:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 63
+[02-Jun-2008 11:23:35] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/lloydtest/EManager/view_orders.php on line 359
+[02-Jun-2008 11:25:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 63
+[02-Jun-2008 11:26:00] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 64
+[02-Jun-2008 11:26:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 64
+[02-Jun-2008 11:26:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 66
+[02-Jun-2008 11:26:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 65
+[02-Jun-2008 11:27:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 34
+[02-Jun-2008 11:27:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 34
+[02-Jun-2008 11:27:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 34
+[02-Jun-2008 11:28:23] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 34
+[02-Jun-2008 11:29:29] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 35
+[02-Jun-2008 11:29:45] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 35
+[02-Jun-2008 11:30:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/lloydtest/EManager/validate.php on line 35
+[03-Jun-2008 13:18:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:107) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:20:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:107) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:22:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:103) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:23:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:103) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:23:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:47) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:24:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:103) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:26:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:15) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 112
+[03-Jun-2008 13:43:51] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 157
+[03-Jun-2008 15:13:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:71) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 152
+[03-Jun-2008 15:13:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:33) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 152
+[05-Jun-2008 10:35:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 14
+[05-Jun-2008 10:35:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:142) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 155
+[05-Jun-2008 10:44:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php:144) in /home/movemewi/public_html/lloydtest/EManager/destination_lupu.php on line 157

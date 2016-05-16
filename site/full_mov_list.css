@@ -1,0 +1,32 @@
+.name {
+font-family: Arial, Verdana; font-size: 12px; color: #111111;
+	color: #000000;
+	display: table-column;
+	margin: 10px;
+	width:520px;
+	float: left;
+	border-right: 2px;
+	border-right-style: dashed;
+	border-right-color: #999999;
+	border-bottom: 2px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+	
+}
+.logo {
+	overflow: hidden;
+	float: right;
+	margin-right:80px;
+}
+
+.listcon {
+	display: table;
+	}
+
+
+.Cname {
+font-family: Arial, Verdana; font-size: 13px; color: #111111;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-decoration: underline;
+}

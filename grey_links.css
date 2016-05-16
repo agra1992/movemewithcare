@@ -1,0 +1,21 @@
+#grey_links a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	font-weight: normal;
+}
+#grey_links a:link {
+	text-decoration: none;
+}
+#grey_links a:visited {
+	text-decoration: none;
+	color: #999999;
+}
+#grey_links a:hover {
+	text-decoration: none;
+	color: #333333;
+}
+#grey_links a:active {
+	text-decoration: underline;
+	color: black;
+}

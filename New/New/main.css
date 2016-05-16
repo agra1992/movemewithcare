@@ -1,0 +1,130 @@
+body{margin:0px auto;text-align: center;}
+html,body {
+	height: 100%;
+	-moz-box-align:center;
+}
+#main{-moz-box-align:center;display:block;width:857px;margin:0px auto;border:solid 1px #888888; position: relative;}
+#adds_right{align:right;}
+#loaderContainer {
+  background-image: url(semi.gif);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: expression('absolute');
+  height: expression(document.documentElement.scrollHeight+'px');
+  width: expression(document.documentElement.scrollWidth+'px');
+  z-index: 1000;
+  visibility: hidden;
+  cursor:wait;
+}
+
+#loadText{
+border: 2px solid #3399FF;
+margin: 250px auto;
+margin-left: 400px;
+font-family: Arial, Helvetica, sans-serif;
+font-size:9px;
+color: blue;
+width:300px;
+text-align:center;
+background-image: url(w.gif);
+cursor:wait;
+}
+
+.shadetabs1{
+padding: 3px 0;
+margin-left: 0;
+margin-top: 1px;
+margin-bottom: 0;
+font: bold 12px Verdana;
+list-style-type: none;
+text-align: left; /*set to left, center, or right to align the menu as desired*/
+}
+
+.shadetabs2{
+	line-style-type:none;
+	display:inline;
+	margin:0;
+}
+
+.shadetabs2 li{
+	line-style-type:none;
+	display:inline;
+	margin:0;
+}
+
+.shadetabs1 li{
+display: inline;
+margin: 0;
+}
+
+.shadetabs1 li a{
+text-decoration: none;
+padding: 3px 7px;
+margin-right: 3px;
+}
+
+.shadetabs1 li a:visited{
+
+}
+
+.shadetabs1 li a:hover{
+text-decoration: underline;
+
+}
+
+.shadetabs1 li.selected{
+position: relative;
+top: 1px;
+}
+
+.shadetabs1 li.selected a{ /*selected main tab style */
+background-image: url(shadeactive.gif);
+border-bottom-color: white;
+}
+
+.shadetabs1 li.selected a:hover{ /*selected main tab style */
+text-decoration: none;
+}
+
+.contentstyle{
+border: 1px solid gray;
+width: 450px;
+margin-bottom: 1em; padding: 10px;
+}
+
+#logo{margin:12px;padding-top:15px;float:left;clear:none;}
+#right{margin:5px;float:right;clear:none;}
+#top{margin:10px auto;display:block;}
+#blue_links { top:40px; position:absolute; left: 465px!important;left: 485px; width: 320px; visibility: visible; }
+#blue_links a {font-family: Arial, Helvetica, sans-serif;font-size:7pt;color: #7ABA32;}
+#blue_links a:link {text-decoration: none;}
+#blue_links a:visited {text-decoration: none;color: #8FD93B;}
+#blue_links a:hover {text-decoration: none;color: #679D2B;}
+#blue_links a:active {text-decoration: none;color: #63B704;}
+.style14 {color: #7ABA32}
+#bbb{left:770px;top:53px;position:absolute;float:right;height:76px;width:70px;margin-right:5px;background:#FFFFFF;background-image: url('images/default_r7_c23.jpg') ;}
+#cam{left:460px;top:49px;position:absolute;height:73px;width:91px;margin-right:5px;background:#FFFFFF;background-image: url('images/cam.jpg') ;}
+#acd{left:560px;top:49px;position:absolute;height:71px;width:91px;margin-right:5px;background:#FFFFFF;background-image: url('images/acd.jpg') ;}
+#movingscam{left:660px;top:65px;position:absolute;height:55px;width:100px;margin-right:5px;background:#FFFFFF;background-image: url('images/amsa.jpg') ;}
+.hiddenPic {display:none;}
+
+/*tabs good blue #37F1F8*/
+#menu{float:left;padding-top:5px;background: #FFF;color:black;display: block;}
+ul#nav,ul#nav li{list-style-type:none;margin:0;padding:0;text-align: center;font-size: 9px;font-weight: bold;font-family: Verdana}
+ul#nav{width:857px;text-align: center;}
+ul#nav li{display:inline;margin:0;}
+
+
+#ajaxcontentarea{display:block;margin:0px;text-align:center;padding:0px;}
+p{font-family:Verdana; font-size: 12px; color: #000;}
+.map A:hover {COLOR: #FF0000; color: #130D57}
+.map a {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif; font-size: small; color: #0066ff}
+a {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif; font-size: x-small; color: #F79A30}
+a:visited {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif; font-size: x-small; color: #F79A30}
+a:hover {COLOR: #FF0000; color: #DE7A09;text-decoration:none;}
+a:active {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif; font-size: x-small; color: #F79A30}
+
+/*MISC*/

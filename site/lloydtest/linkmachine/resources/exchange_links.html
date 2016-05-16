@@ -1,0 +1,175 @@
+<html>
+<head>
+<title>Links</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
+<table width="632" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="2"><img src="lm_images/streamline_top.gif" width="774" height="131"></td>
+  </tr>
+  <tr> 
+    <td width="172" valign="top"> 
+    <!--
+      <p align="center">Text Link</p>
+      <p align="center">Tex Link</p>
+      <p align="center">Text Link</p>
+      <p align="center">Tex Link </p>
+      <p align="center">Text Link</p>
+      <p align="center">Text Link </p>
+      <p align="center">Text Link</p>
+      -->
+      </td>
+    <td width="610" valign="top"> 
+      <p>
+<script language=javascript>
+function checkSubmit(form) 
+{
+    if (form.sitename.value == '') {
+        alert('Please enter the name of the site');
+        form.sitename.focus();
+        return false;
+    }
+
+    if (form.url.value == '') {
+        alert('Please enter the URL of the site');
+        form.url.focus();
+        return false;
+    }
+    
+    if (form.email.value == '') {
+        alert('Please enter your email');
+        form.email.focus();
+        return false;
+    }
+    
+    if (form.rec_url.value == '') {
+        alert('Please enter the reciprocal url');
+        form.rec_url.focus();
+        return false;
+    }
+    
+
+    if (form.category.selectedIndex < 0) {
+        alert('Please select a category');
+        form.category.focus();
+        return false;
+    }
+
+    if (form.description.value == '') {
+        alert('Please enter the description of your site');
+        form.description.focus();
+        return false;
+    }
+   
+    if (form.description.value.length > 200) {
+        alert('Please limit the description to 200 characters. It is now ' + form.description.value.length + ' characters long.');
+        form.description.focus();
+        return false;
+    }
+
+    return true;
+}
+function FetchInfo() 
+{
+  document.site_form.submit_type.value='fetch_info';
+  document.site_form.submit();
+}
+</script>
+   
+<style>
+.style_link         { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #882222; font-size: 12px; }
+.style_regular      { font-family: Arial, Helvetica, sans-serif; color: #222222; font-size: 12px; }
+.style_category     { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #222222; font-size: 12px; }
+.style_subcategory  { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #222222; font-size: 12px; }
+.style_title        { font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #222222; font-size: 15px; }
+</style>
+
+<table border="0" cellpadding="8" cellspacing="0" width="530">
+  <tr>
+    <td>
+      <p align=center>
+      <span class="style_title">Submit Website for Link Exchange</span><br>
+      <br>
+      <div align=justify>
+      <span class="style_regular">
+      Before submitting your website to the link directory, please make sure you have created a reciprocal link to this site. For example, you may put the following code into your HTML <em>(please look closely at the <b>href=...</b> part, your link should point to this exact URL)</em>:<br>
+      <br>
+      </div>
+      </p>
+      <form name=link_code_frm>
+      <p align=center>
+      <textarea readonly="readonly" name="link_code" cols=53 rows=4>&lt;a href=&quot;http://movemewithcare.com/&quot;&gt;&lt;/a&gt; - </textarea>
+      </p>
+      </form>
+      </span>
+    </td>
+  </tr>
+</table>
+<br>
+    
+    <table border="0" cellpadding="8" cellspacing="1" width="530">
+    <form name=site_form action="http://movemewithcare.com/linkmachine/resources/link_exchange.php?ua=_ua10&site_index=-1" method=POST onsubmit="return checkSubmit(this)">
+      <tr>
+        <td style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #222222; background: #dddddd; padding-left: 5px; padding-right: 5px;">
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Contact Name</span><br>
+          <input type="text" name="name" value="" size="60" maxlength="250"><br>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Contact E-mail</span><br>
+          <input type="text" name="email" value="" size="60" maxlength="250"><br>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Site Name</span><br>
+          <input type="text" name="sitename" value="" size="60" maxlength="250"><br>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Site URL</span>
+          &nbsp;&nbsp;<a href="#linkpages" style="text-align: left; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #882222;" onClick="FetchInfo()">(Fetch Site Info)</a>
+          <br>
+          <input type="text" name="url" value="" size="60" maxlength="250"><br>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Reciprocal Link URL</span><br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:8pt; font-weight: normal; color: #222222;">The URL of the page containing the link back to this site.</span><br>
+          <input type="text" name="rec_url" value="" size="60" maxlength="250"><br>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Site Category</span><br>
+            <select size=1 name="category" style="width:384px" onChange="SelCtgChanged(this)">
+      <option value="Other">Other</option>
+
+            </select><br>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Site Description</span><br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:8pt; font-weight: normal; color: #222222;">A brief description of the site, up to 200 characters.</span><br>
+          <textarea name="description" rows="5" cols="45"></textarea>
+          <br>
+  
+          <br>
+          <script language=javascript>
+          seed = (Math.round((Math.random()*100000)+100));
+          document.write('<img src="http://movemewithcare.com/linkmachine/linkmachine.php?ua=_ua158&seed=' + seed + '"><input type="hidden" name="seed" value="' + seed + '"><br>');
+          </script>
+          <br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #222222;">Copy the Letters</span><br>
+          <span style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size:8pt; font-weight: normal; color: #222222;">Enter the letters printed in the above image.</span><br>
+          <input type="text" name="captcha_text" value="" size="60" maxlength="250"><br>
+          <br>
+    
+          <input type="hidden" name="submit_type" value="">
+          <p align="center"><input type="submit" class="submit" value=" Submit "></p>
+        </td>
+      </tr>
+    </form>
+    </table>
+    <br>
+  
+      <a class="style_link" href="resources.html">Back</a><span class="style_regular"> | </span><a class="style_link" href="http://movemewithcare.com/">Home</a><br>
+      <br>
+      <br></p>
+    </td>
+  </tr>
+</table>
+<table width="774" border="0" cellpadding="0" cellspacing="0" bgcolor="#333366">
+  <tr> 
+  </tr>
+</table>
+</body>
+</html>

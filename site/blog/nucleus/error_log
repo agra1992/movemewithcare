@@ -1,0 +1,34 @@
+[06-Jan-2008 18:18:58] PHP Fatal error:  Call to undefined function:  mysq_fetch_row() in /home/movemewi/public_html/blog/nucleus/libs/ITEM.php on line 7
+[06-Jan-2008 18:36:09] PHP Warning:  Missing argument 5 for send_mail() in /home/movemewi/public_html/blog/nucleus/libs/mailer.php on line 3
+[06-Jan-2008 18:40:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/blog/nucleus/libs/ITEM.php on line 21
+[06-Jan-2008 18:42:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/blog/nucleus/libs/ITEM.php on line 20
+[22-Feb-2008 18:59:10] PHP Warning:  Missing argument 9 for create() in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 533
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279
+[29-Feb-2008 21:18:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/blog/nucleus/libs/MEMBER.php on line 279

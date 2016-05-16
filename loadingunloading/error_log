@@ -1,0 +1,156 @@
+[13-Sep-2007 05:09:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/movemewi/public_html/top_panel.php on line 3
+[17-Oct-2007 12:41:12] PHP Parse error:  syntax error, unexpected '<' in /home/proace/public_html/loadingunloading/fulllupu2.php on line 317
+[17-Oct-2007 12:42:50] PHP Parse error:  syntax error, unexpected '}' in /home/proace/public_html/loadingunloading/fulllupu2.php on line 323
+[10-Nov-2007 17:24:10] PHP Warning:  mysql_fetch_array() [<a href='function.mysql-fetch-array'>function.mysql-fetch-array</a>]: The result type should be either MYSQL_NUM, MYSQL_ASSOC or MYSQL_BOTH. in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 158
+[25-Nov-2007 18:15:12] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 503
+[25-Nov-2007 18:16:34] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 504
+[27-Nov-2007 09:06:00] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 469
+[27-Nov-2007 09:06:21] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 469
+[27-Nov-2007 09:06:23] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 469
+[27-Nov-2007 09:07:16] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 469
+[27-Nov-2007 09:07:27] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 469
+[27-Nov-2007 09:09:37] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 471
+[27-Nov-2007 09:09:53] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 471
+[27-Nov-2007 09:30:17] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 490
+[27-Nov-2007 09:31:35] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 491
+[27-Nov-2007 17:02:20] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 497
+[30-Nov-2007 17:16:54] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 60
+[30-Nov-2007 17:19:46] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 73
+[30-Nov-2007 17:25:10] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 68
+[01-Dec-2007 16:22:47] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 100
+[01-Dec-2007 16:25:36] PHP Fatal error:  Call to undefined function:  checkbrowser() in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 8
+[01-Dec-2007 16:26:07] PHP Fatal error:  Call to undefined function:  checkbrowser() in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 8
+[01-Dec-2007 16:26:39] PHP Warning:  main(prerequisites.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 7
+[01-Dec-2007 16:26:39] PHP Warning:  main(prerequisites.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 7
+[01-Dec-2007 16:26:39] PHP Warning:  main(prerequisites.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 7
+[01-Dec-2007 16:26:39] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'prerequisites.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 7
+[01-Dec-2007 16:26:39] PHP Fatal error:  Call to undefined function:  checkbrowser() in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 9
+[01-Dec-2007 17:18:07] PHP Parse error:  syntax error, unexpected '@' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 77
+[01-Dec-2007 17:19:35] PHP Parse error:  syntax error, unexpected '<', expecting ',' or ';' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 77
+[05-Dec-2007 20:40:20] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 90
+[05-Dec-2007 20:44:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 92
+[05-Dec-2007 20:45:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 103
+[05-Dec-2007 20:45:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 104
+[05-Dec-2007 20:45:45] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 105
+[05-Dec-2007 20:46:13] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 102
+[06-Dec-2007 17:01:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 80
+[12-Dec-2007 17:32:33] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 49
+[14-Dec-2007 07:54:03] PHP Fatal error:  Call to undefined function:  sanitize() in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 86
+[14-Dec-2007 23:19:40] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu1.php on line 4
+[15-Dec-2007 15:52:25] PHP Warning:  chk_crypt() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/crypt/cryptographp.fct.php on line 29
+[15-Dec-2007 18:45:41] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 293
+[15-Dec-2007 18:46:16] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 294
+[16-Dec-2007 09:42:25] PHP Parse error:  syntax error, unexpected ';' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 498
+[16-Dec-2007 09:42:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 498
+[16-Dec-2007 09:43:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 499
+[16-Dec-2007 09:44:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 499
+[16-Dec-2007 09:44:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 498
+[16-Dec-2007 09:44:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 498
+[16-Dec-2007 09:44:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 499
+[16-Dec-2007 09:50:04] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 502
+[16-Dec-2007 11:48:31] PHP Parse error:  syntax error, unexpected T_RETURN in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 66
+[16-Dec-2007 11:49:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 750
+[16-Dec-2007 11:49:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 753
+[16-Dec-2007 11:50:11] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 754
+[16-Dec-2007 11:50:36] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 759
+[16-Dec-2007 11:50:54] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 753
+[16-Dec-2007 11:51:07] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 753
+[16-Dec-2007 11:51:17] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 753
+[16-Dec-2007 11:51:31] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 757
+[16-Dec-2007 11:51:42] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 758
+[16-Dec-2007 11:51:57] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 746
+[16-Dec-2007 11:52:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 717
+[16-Dec-2007 11:53:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 717
+[16-Dec-2007 11:53:58] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 732
+[16-Dec-2007 11:54:13] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 724
+[16-Dec-2007 11:54:56] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 725
+[16-Dec-2007 11:56:45] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 725
+[16-Dec-2007 11:57:41] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 724
+[16-Dec-2007 12:21:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 760
+[16-Dec-2007 12:30:35] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 107
+[16-Dec-2007 12:58:14] PHP Warning:  chk_crypt() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/crypt/cryptographp.fct.php on line 29
+[16-Dec-2007 13:18:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 166
+[16-Dec-2007 13:19:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 166
+[16-Dec-2007 13:19:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 166
+[16-Dec-2007 13:19:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 168
+[16-Dec-2007 13:37:11] PHP Parse error:  syntax error, unexpected T_REQUIRE_ONCE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 9
+[16-Dec-2007 20:33:52] PHP Warning:  chk_crypt() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/crypt/cryptographp.fct.php on line 29
+[16-Dec-2007 22:22:36] PHP Warning:  chk_crypt() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/crypt/cryptographp.fct.php on line 29
+[26-Dec-2007 12:06:43] PHP Parse error:  syntax error, unexpected ':' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 258
+[26-Dec-2007 12:08:13] PHP Parse error:  syntax error, unexpected ':' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 260
+[26-Dec-2007 12:08:37] PHP Parse error:  syntax error, unexpected ':' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 258
+[26-Dec-2007 12:08:50] PHP Parse error:  syntax error, unexpected ':' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 259
+[26-Dec-2007 12:09:12] PHP Parse error:  syntax error, unexpected ':' in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 258
+[26-Dec-2007 12:09:41] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 274
+[26-Dec-2007 12:10:22] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 843
+[26-Dec-2007 13:32:22] PHP Warning:  chk_crypt() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/crypt/cryptographp.fct.php on line 29
+[01-Jan-2008 15:03:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 18
+[01-Jan-2008 15:03:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 18
+[01-Jan-2008 15:03:52] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 18
+[01-Jan-2008 15:03:52] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 18
+[01-Jan-2008 15:04:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 18
+[01-Jan-2008 15:04:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 18
+[01-Jan-2008 15:06:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 19
+[01-Jan-2008 15:06:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 19
+[01-Jan-2008 15:06:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 20
+[01-Jan-2008 15:06:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 20
+[24-Jan-2008 08:14:08] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/top_panel.php on line 11
+[24-Jan-2008 08:14:08] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/top_panel.php on line 11
+[30-Dec-2009 05:27:03] PHP Warning:  require_once(../top_panel27.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 6
+[30-Dec-2009 05:27:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../top_panel27.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 6
+[30-Dec-2009 05:27:10] PHP Warning:  require_once(../top_panel27.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 6
+[30-Dec-2009 05:27:10] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../top_panel27.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 6
+[14-Jan-2010 19:36:47] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 10
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/magickwand.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/magickwand.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Nov-2010 21:02:08] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/ixed.5.2.lin' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/ixed.5.2.lin: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2013 23:36:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/movemewi/public_html/config.inc.php on line 28
+[06-Jan-2014 20:30:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[06-Jan-2014 20:30:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[08-Jan-2014 04:33:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[08-Jan-2014 04:33:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[08-Jan-2014 04:33:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[24-Oct-2014 04:25:07 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[24-Oct-2014 04:25:07 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[24-Oct-2014 04:25:08 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 09:04:51 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 11:14:37 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 11:14:38 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 11:14:39 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 12:59:43 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 12:59:44 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 12:59:45 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 13:15:27 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 13:15:28 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 13:15:29 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 23:04:10 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 23:04:11 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[29-Oct-2014 23:04:12 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[01-Nov-2014 04:21:28 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[01-Nov-2014 06:36:44 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[01-Nov-2014 06:36:45 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[01-Nov-2014 06:36:45 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/movemewi/public_html/config.inc.php on line 28
+[18-Feb-2015 15:00:08 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[18-Feb-2015 15:32:29 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[01-May-2015 19:31:52 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[01-May-2015 20:21:30 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[25-May-2015 19:08:02 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[25-May-2015 20:21:21 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[09-Jun-2015 04:39:43 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[09-Jun-2015 04:39:43 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 3
+[01-Jul-2015 16:49:57 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[01-Jul-2015 17:31:39 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[26-Sep-2015 19:10:29 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[27-Sep-2015 05:05:34 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 3
+[27-Sep-2015 14:00:27 America/Chicago] PHP Fatal error:  Call to undefined function session_is_registered() in /home/movemewi/public_html/loadingunloading/fulllupu2.php on line 402
+[28-Sep-2015 08:20:17 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home/movemewi/public_html/loadingunloading/fulllupu_action.php on line 3
+[18-Dec-2015 08:42:59] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 144
+[18-Dec-2015 08:43:02] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 144
+[18-Dec-2015 08:43:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 144
+[18-Dec-2015 08:43:54] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 144
+[18-Dec-2015 08:44:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 144
+[18-Dec-2015 08:46:00] PHP Parse error:  syntax error, unexpected ']', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/movemewi/public_html/loadingunloading/loadingunloading.php on line 143

@@ -1,0 +1,6 @@
+h1 { font-family: "Courier New", Courier, mono; font-size: 18pt; font-weight: bold ; left: auto; clip:  rect(   ); color: #DE7A09; text-align: center}
+p {  font-family: "Arial", Helvetica, sans-serif; font-size: x-small; color: #130D57}
+A:hover {COLOR: #FF0000; color: #DE7A09}
+a {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif; font-size: small; color: #F79A30}
+.bottomtext {  font-family: "Ms sans serif", Arial, Helvetica, sans-serif ; color: #130D57 ; font-size: xx-small; text-align: center;}
+.formobject {align:left;font-family: Arial; font-size: small; background-color: #ffffff; color: #130d57; border: 1 solid #0066ff; SCROLLBAR-FACE-COLOR: #0066ff; SCROLLBAR-TRACK-COLOR: #dceffe; SCROLLBAR-ARROW-COLOR: #dceffe; SCROLLBAR-DARKSHADOW-COLOR: #130d57;}

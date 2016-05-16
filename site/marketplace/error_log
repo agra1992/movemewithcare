@@ -1,0 +1,105 @@
+[09-Nov-2007 15:23:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/marketplace.php on line 27
+[10-Nov-2007 13:53:58] PHP Parse error:  syntax error, unexpected T_ECHO in /home/movemewi/public_html/marketplace/marketplace.php on line 106
+[10-Nov-2007 13:54:01] PHP Parse error:  syntax error, unexpected T_ECHO in /home/movemewi/public_html/marketplace/marketplace.php on line 106
+[10-Nov-2007 13:59:39] PHP Fatal error:  Call to undefined function:  mysqli_fetch_array() in /home/movemewi/public_html/marketplace/marketplace.php on line 108
+[10-Nov-2007 13:59:58] PHP Warning:  mysql_fetch_array() [<a href='function.mysql-fetch-array'>function.mysql-fetch-array</a>]: The result type should be either MYSQL_NUM, MYSQL_ASSOC or MYSQL_BOTH. in /home/movemewi/public_html/marketplace/marketplace.php on line 108
+[17-Nov-2007 09:45:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/movemewi/public_html/marketplace/marketplace.php on line 38
+[17-Nov-2007 10:15:58] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 10:15:58] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 52
+[17-Nov-2007 10:15:58] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 53
+[17-Nov-2007 10:15:58] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 54
+[17-Nov-2007 10:16:46] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 10:16:46] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 52
+[17-Nov-2007 10:16:46] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 53
+[17-Nov-2007 10:16:46] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 54
+[17-Nov-2007 10:16:48] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 10:16:48] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 52
+[17-Nov-2007 10:16:48] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 53
+[17-Nov-2007 10:16:48] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 54
+[17-Nov-2007 10:16:49] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 10:16:49] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 52
+[17-Nov-2007 10:16:49] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 53
+[17-Nov-2007 10:16:49] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 54
+[17-Nov-2007 10:16:53] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 10:16:53] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 52
+[17-Nov-2007 10:16:53] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 53
+[17-Nov-2007 10:16:53] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 54
+[17-Nov-2007 10:20:23] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 10:20:23] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 52
+[17-Nov-2007 10:20:23] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 53
+[17-Nov-2007 10:20:23] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 54
+[17-Nov-2007 10:24:54] PHP Warning:  Cannot use a scalar value as an array in /home/movemewi/public_html/marketplace/marketplace.php on line 51
+[17-Nov-2007 12:31:09] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/marketplace/marketplace.php on line 83
+[17-Nov-2007 14:59:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/movemewi/public_html/marketplace/marketplace.php on line 81
+[18-Nov-2007 09:08:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/seo.php:13) in /home/movemewi/public_html/marketplace/market_request.php on line 7
+[18-Nov-2007 09:11:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/seo.php:13) in /home/movemewi/public_html/marketplace/market_request.php on line 7
+[18-Nov-2007 09:12:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/randchar_function.php:211) in /home/movemewi/public_html/marketplace/market_request.php on line 6
+[18-Nov-2007 09:12:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/movemewi/public_html/top_panel.php:14) in /home/movemewi/public_html/marketplace/market_request.php on line 5
+[18-Nov-2007 09:25:39] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/marketplace/market_final.php on line 33
+[18-Nov-2007 17:15:57] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/marketplace/market_request.php on line 171
+[18-Nov-2007 17:19:24] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 144
+[18-Nov-2007 17:19:49] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:19:50] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:20:46] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:21:02] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:21:04] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:21:05] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:21:06] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:21:11] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:22:02] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:22:14] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/marketplace/market_request.php on line 171
+[18-Nov-2007 17:22:42] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/market_request.php on line 141
+[18-Nov-2007 17:30:04] PHP Parse error:  syntax error, unexpected '.' in /home/movemewi/public_html/marketplace/market_request.php on line 174
+[18-Nov-2007 17:30:06] PHP Parse error:  syntax error, unexpected '.' in /home/movemewi/public_html/marketplace/market_request.php on line 174
+[18-Nov-2007 20:44:50] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/marketplace/market_request.php on line 170
+[18-Nov-2007 20:45:31] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/marketplace/market_request.php on line 170
+[18-Nov-2007 20:45:52] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/marketplace/market_request.php on line 171
+[18-Nov-2007 20:46:09] PHP Parse error:  syntax error, unexpected '<' in /home/movemewi/public_html/marketplace/market_request.php on line 173
+[18-Nov-2007 20:48:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/market_request.php on line 176
+[18-Nov-2007 20:48:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/market_request.php on line 176
+[18-Nov-2007 20:48:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/market_request.php on line 176
+[19-Nov-2007 17:58:49] PHP Parse error:  syntax error, unexpected T_FOR in /home/movemewi/public_html/marketplace/market_request.php on line 191
+[19-Nov-2007 18:04:48] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/marketplace/market_request.php on line 196
+[19-Nov-2007 18:05:24] PHP Warning:  Invalid argument supplied for foreach() in /home/movemewi/public_html/marketplace/market_request.php on line 192
+[19-Nov-2007 18:23:35] PHP Parse error:  syntax error, unexpected ')' in /home/movemewi/public_html/marketplace/market_request.php on line 216
+[19-Nov-2007 18:24:50] PHP Parse error:  syntax error, unexpected ')' in /home/movemewi/public_html/marketplace/market_request.php on line 216
+[19-Nov-2007 18:26:41] PHP Parse error:  syntax error, unexpected ')' in /home/movemewi/public_html/marketplace/market_request.php on line 209
+[19-Nov-2007 18:26:58] PHP Parse error:  syntax error, unexpected ')' in /home/movemewi/public_html/marketplace/market_request.php on line 216
+[19-Nov-2007 18:27:16] PHP Parse error:  syntax error, unexpected ')' in /home/movemewi/public_html/marketplace/market_request.php on line 216
+[19-Nov-2007 18:27:35] PHP Parse error:  syntax error, unexpected ')' in /home/movemewi/public_html/marketplace/market_request.php on line 216
+[21-Nov-2007 14:32:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/marketplace.php on line 120
+[21-Nov-2007 14:32:49] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/movemewi/public_html/marketplace/marketplace.php on line 120
+[25-Nov-2007 22:03:37] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/marketplace/marketplace.php on line 227
+[25-Nov-2007 22:12:52] PHP Warning:  main(../bottom_panel) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/marketplace/marketplace.php on line 261
+[25-Nov-2007 22:12:52] PHP Warning:  main(../bottom_panel) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/marketplace/marketplace.php on line 261
+[25-Nov-2007 22:12:52] PHP Warning:  main(../bottom_panel) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/movemewi/public_html/marketplace/marketplace.php on line 261
+[25-Nov-2007 22:12:52] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening '../bottom_panel' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/marketplace/marketplace.php on line 261
+[26-Nov-2007 17:19:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/marketplace/marketplace.php on line 163
+[26-Nov-2007 17:19:06] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/movemewi/public_html/marketplace/marketplace.php on line 163
+[26-Nov-2007 17:42:29] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/marketplace/marketplace.php on line 159
+[26-Nov-2007 17:42:29] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/movemewi/public_html/marketplace/marketplace.php on line 159
+[01-Dec-2007 19:50:51] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/marketplace/market_request.php on line 43
+[02-Dec-2007 10:20:58] PHP Parse error:  syntax error, unexpected '%', expecting ')' in /home/movemewi/public_html/marketplace/market_request.php on line 45
+[02-Dec-2007 10:50:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/market_request.php on line 74
+[02-Dec-2007 10:50:49] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/marketplace/market_request.php on line 69
+[02-Dec-2007 10:52:18] PHP Parse error:  syntax error, unexpected ',' in /home/movemewi/public_html/marketplace/market_request.php on line 70
+[08-Dec-2007 11:56:35] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:56:38] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:56:44] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:57:58] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:58:20] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 294
+[08-Dec-2007 11:58:49] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 295
+[08-Dec-2007 11:59:09] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:59:19] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:59:35] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 293
+[08-Dec-2007 11:59:49] PHP Parse error:  syntax error, unexpected '{' in /home/movemewi/public_html/marketplace/market_request.php on line 294
+[08-Dec-2007 12:00:03] PHP Parse error:  syntax error, unexpected '}' in /home/movemewi/public_html/marketplace/market_request.php on line 332
+[15-Dec-2007 09:00:23] PHP Warning:  chk_crypt() [<a href='function.include'>function.include</a>]: Failed opening '' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/movemewi/public_html/crypt/cryptographp.fct.php on line 29
+[15-Dec-2007 09:06:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/market_request.php on line 39
+[15-Dec-2007 09:07:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/movemewi/public_html/marketplace/market_request.php on line 39
+[15-Dec-2007 09:07:30] PHP Fatal error:  Call to undefined function:  sanitize() in /home/movemewi/public_html/marketplace/market_request.php on line 44
+[31-Dec-2007 10:17:29] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'movemewi'@'localhost' (using password: NO) in /home/movemewi/public_html/marketplace/marketplace.php on line 173
+[31-Dec-2007 10:17:29] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/movemewi/public_html/marketplace/marketplace.php on line 173
+[21-Jan-2008 12:27:52] PHP Parse error:  syntax error, unexpected $end in /home/movemewi/public_html/marketplace/marketplace.php on line 247
+[21-Jan-2008 12:31:07] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/movemewi/public_html/marketplace/marketplace.php on line 99
+[21-Jan-2008 12:31:19] PHP Parse error:  syntax error, unexpected '.' in /home/movemewi/public_html/marketplace/marketplace.php on line 99

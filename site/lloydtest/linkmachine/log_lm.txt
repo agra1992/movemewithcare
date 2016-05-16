@@ -1,0 +1,8 @@
+02/09/08 12:47:53 InitData Called. user_email: , prev1 exists: 
+02/09/08 Failed to write file /links/resources_other.html
+02/09/08 Failed to write file /links/resources.html
+02/09/08 Failed to write file /links/exchange_links.html
+02/09/08 Failed to write file /links/resources_other.html
+02/09/08 Failed to write file /links/resources.html
+02/09/08 Failed to write file /links/resources_other.html
+02/09/08 Failed to write file /links/resources.html
