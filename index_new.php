@@ -98,7 +98,8 @@
                             <!-- NAV -->
                             <li><a href="#HOME">HOME</a> </li>
                             <li><a href="#ABOUT">ABOUT US</a> </li>
-                            <li><a href="#SCREENS">CHOOSE WHAT YOU NEED</a> </li>
+                            <li><a href="#FEATURES">OUR SERVICES</a> </li>
+                            <li><a href="#SCREENS">TESTIMONIALS</a> </li>
                             <li><a href="#DOWNLOAD">CONTACT US</a> </li>
                             
                         </ul>
@@ -118,7 +119,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-8 col-sm-8">
+                    <div class="col-md-8 col-xs-8">
                         <div class="home_text">
                             <!-- TITLE AND DESC -->
                             <h1>We are the moving network for USA/Canada</h1>
@@ -130,10 +131,64 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 col-sm-4">
-                        <div class="home-iphone">
+                    <div class="col-md-3 col-md-offset-1 col-xs-4">
+                        <!--<div class="home-iphone">
                             <img src="images/new/iPhone_Home.png" alt="">
-                        </div>
+                        </div>-->
+                        <div class="menu-container">
+                            <nav>
+                                    <ul class="mcd-menu">
+                                        <li class="menu-header">
+                                            <i class="fa fa-bars"></i>
+                                            <strong>Menu</strong>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.movemewithcare.com/index_new.php/">
+                                                <i class="fa fa-home"></i>
+                                                <strong>Home</strong>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="">
+                                                <i class="fa fa-question"></i>
+                                                <strong>FAQs</strong>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="">
+                                                <i class="fa fa-info"></i>
+                                                <strong>Accredited Associations</strong>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="">
+                                                <i class="fa fa-check-square-o"></i>
+                                                <strong>Member Login</strong>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="">
+                                                <i class="fa fa-thumbs-o-up"></i>
+                                                <strong>Become a Member</strong>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="">
+                                                <i class="fa fa-truck"></i>
+                                                <strong>Our Services</strong>
+                                            </a>
+                                            <ul>
+                                                <li><a href="#"><i class="fa fa-hand-o-right"></i>Full Service Movers</a></li>
+                                                <li><a href="#"><i class="fa fa-hand-o-right"></i>Loading/Unloading Help</a></li>
+                                                <li><a href="#"><i class="fa fa-hand-o-right"></i>Transportation Help</a></li>
+                                                <li><a href="#"><i class="fa fa-hand-o-right"></i>Storage Facilities</a></li>
+                                                <li><a href="#"><i class="fa fa-hand-o-right"></i>Packing Supplies and Materials</a></li>
+                                            </ul>
+                                        </li>
+                                        
+                                    </ul>
+                                </nav>
+                            </div>
                     </div>
                     
                 </div>
@@ -143,6 +198,298 @@
     </section>
 
     <!-- END HEADER SECTION -->
+ <!-- =========================
+     START ABOUT US SECTION
+============================== -->
+
+
+    <section class="about page" id="ABOUT">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <!-- ABOUT US SECTION TITLE-->
+                    <div class="section_title">
+                        <h2>About Us</h2>
+                        <p>Are you tired of trying to find reliable and professional help from moving companies?</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="inner_about_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="about_phone wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+                        <!-- PHONE -->
+                            <img src="images/new/about_person.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6  wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">
+                        <!-- TITLE -->
+                        <div class="inner_about_title">
+                            <h2>Why we are the best <br> for you</h2>
+                            <p>You no longer have to impose on your family and friends to help you move your grandmother's china or haul your dad's grand piano. In this site, you will find reliable moving help at competitive prices.</p>
+                        </div>
+                        <div class="inner_about_desc">
+
+                            <!-- SINGLE DESC -->
+                            <div class="single_about_area fadeInUp wow" data-wow-duration=".5s" data-wow-delay="1s">
+                                <!-- ICON -->
+                                <div><i class="pe-7s-share"></i></div>
+                                <!-- HEADING DESCRIPTION -->
+                                <h3>We are a network of accredited and certified movers</h3>
+                                <p>For both US and Canada. We verify that our members are all in good standing with either the <a href="http://www.mybbb.org">BBB</a> (USA and Canada), <a href="http://http://www.moving.org/">AMSA</a>, and many more.</p>
+                            </div>
+                            <!-- END SINGLE DESC -->
+
+
+                            <!-- SINGLE DESC -->
+                            <div class="single_about_area fadeInUp wow" data-wow-duration=".5s" data-wow-delay="1.5s">
+                                <!-- ICON -->
+                                <div><i class="pe-7s-star"></i></div>
+                                <!-- HEADING DESCRIPTION -->
+                                <h3>We are big and reliable</h3>
+                                <p>Most of our movers have the authority to serve their customers nationwide or across borders to Canada. Also, none of our moving companies have ever been blacklisted from <a href="http://www.movingscam.com">Movingscam.com</a>.</p>
+                            </div>
+                            <!-- END SINGLE DESC -->
+
+
+                            <!-- SINGLE DESC -->
+                            <div class="single_about_area fadeInUp wow" data-wow-duration=".5s" data-wow-delay="2s">
+                                <!-- ICON -->
+                                <div><i class="pe-7s-tools"></i></div>
+                                <!-- HEADING DESCRIPTION -->
+                                <h3>We bring the tools at your disposal</h3>
+                                <p>Throughout the site, you will find recommendations to help you find the most economical and practical solutions for your upcoming relocation.</p>
+                            </div>
+                            <!-- END SINGLE DESC -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="video_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 wow fadeInLeftBig">
+                    <!-- VIDEO LEFT TITLE -->
+                        <div class="video_title">
+                            <h2>We keep you <br>Protected</h2>
+                            <p>Too many dishonest and unreliable movers have creeped into the market lately. In association with <a href="http://www.moverzfax.com/">Moverzfax.com</a>, we bring the most trustworthy movers. Our movers have been verified and reviewed by Moverzfax.com and other agencies like BBB, AMSA, etc. We guarantee a stress-free and safe moving experience to you.</p>
+                        </div>
+                        <div class="video-button">
+                            <!-- BUTTON -->
+                            <a class="btn btn-primary btn-video" href="#FEATURES" role="button">Our Services</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 wow fadeInRightBig">
+                         <!-- VIDEO -->
+                        <div class="video">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/b5pjq-Wr82k" frameborder="0" width="560" height="315" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End About Us -->
+
+
+<!-- =========================
+     START FEATURES
+============================== --
+    <section id="FEATURES" class="features page">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <!-- FEATURES SECTION TITLE --
+                    <div class="section_title wow fadeIn" data-wow-duration="1s">
+                        <h2>Features</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+                    </div>
+                    <!-- END FEATURES SECTION TITLE --
+                </div>
+            </div>
+        </div>
+
+        <div class="feature_inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 right_no_padding wow fadeInLeft" data-wow-duration="1s">
+                        <!-- FEATURE --
+
+                        <div class="left_single_feature">
+                            <!-- ICON --
+                            <div><span class="pe-7s-like"></span></div>
+
+                            <!-- FEATURE HEADING AND DESCRIPTION --
+                            <h3>Creative Design<span>/</span></h3>
+                            <p>Lorem ipsum dolor, consectetur sed do adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+
+                        <!-- END SINGLE FEATURE --
+
+
+                        <!-- FEATURE --
+                        <div class="left_single_feature">
+                            <!-- ICON --
+                            <div><span class="pe-7s-science"></span></div>
+
+                            <!-- FEATURE HEADING AND DESCRIPTION --
+                            <h3>Modern Look<span>/</span></h3>
+                            <p>Lorem ipsum dolor, consectetur sed do adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <!-- END SINGLE FEATURE --
+
+
+                        <!-- FEATURE --
+                        <div class="left_single_feature">
+                            <!-- ICON --
+                            <div><span class="pe-7s-look"></span></div>
+
+                            <!-- FEATURE HEADING AND DESCRIPTION --
+                            <h3>Minimal Layout<span>/</span></h3>
+                            <p>Lorem ipsum dolor, consectetur sed do adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <!-- END SINGLE FEATURE --
+
+                    </div>
+                    <div class="col-md-4">
+                        <div class="feature_iphone">
+                            <!-- FEATURE PHONE IMAGE --
+                            <img class="wow bounceIn" data-wow-duration="1s" src="images/new/iPhone02.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-4 left_no_padding wow fadeInRight" data-wow-duration="1s">
+
+                        <!-- FEATURE --
+                        <div class="right_single_feature">
+                            <!-- ICON --
+                            <div><span class="pe-7s-monitor"></span></div>
+
+                            <!-- FEATURE HEADING AND DESCRIPTION --
+                            <h3><span>/</span>Retina ready</h3>
+                            <p>Lorem ipsum dolor, consectetur sed do adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <!-- END SINGLE FEATURE --
+
+
+                        <!-- FEATURE --
+                        <div class="right_single_feature">
+                            <!-- ICON --
+                            <div><span class="pe-7s-phone"></span></div>
+
+                            <!-- FEATURE HEADING AND DESCRIPTION --
+                            <h3><span>/</span>Responsive Ready</h3>
+                            <p>Lorem ipsum dolor, consectetur sed do adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <!-- END SINGLE FEATURE --
+
+
+                        <!-- FEATURE --
+                        <div class="right_single_feature">
+                            <!-- ICON --
+                            <div><span class="pe-7s-gleam"></span></div>
+
+                            <!-- FEATURE HEADING AND DESCRIPTION --
+                            <h3><span>/</span>Clean Code</h3>
+                            <p>Lorem ipsum dolor, consectetur sed do adipisicing elit, sed do eiusmod tempor incididunt</p>
+                        </div>
+                        <!-- END SINGLE FEATURE --
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END FEATURES SECTION --
+-->
+<!--
+    <section id="FEATURES">
+        <section class="section-features">
+            <div class="container container-features">
+                <div class="row">
+                    <div class="col-md-5 wow fadeInLeft">
+                        <img class="feature-img" src="images/new/feature1.jpg">
+                    </div>
+                    <div class="col-md-7 feature-desc wow fadeInRight">
+                        <div class="feature-inner-desc">
+                            <h3>Loading and Unloading Help</h3>
+                            <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
+                        </div>
+                    </div>
+                </div>    
+            </div>
+        </section>
+
+    </section>
+    -->
+
+    <section id="FEATURES" class="wrapper alt style2">
+        <section class="spotlight">
+            <div class="image wow fadeInLeft">
+                <img src="images/new/feature1.jpg">
+            </div>
+            <div class="content wow fadeInRight">
+                    <h2>Loading and Unloading Help</h2>
+                    <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
+            </div>
+        </section>
+        <section class="spotlight">
+            <div class="image wow fadeInLeft">
+                <img src="images/new/feature1.jpg">
+            </div>
+            <div class="content wow fadeInRight">
+                    <h2>Loading and Unloading Help</h2>
+                    <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
+            </div>
+        </section>
+    </section>
+<!-- =========================
+     Start FUN FACTS
+============================== -->
+
+
+    <section class="fun_facts parallax">
+        <div class="section_overlay">
+            <div class="container wow bounceInLeft" data-wow-duration="1s">
+                <div class="row text-center">
+                    <div class="col-md-3">
+                        <div class="single_fun_facts">
+                            <i class="pe-7s-cloud-download"></i>
+                            <h2><span  class="counter_num">699</span> <span>+</span></h2>
+                            <p>Downloads</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="single_fun_facts">
+                            <i class="pe-7s-look"></i>
+                            <h2><span  class="counter_num">1999</span> <span>+</span></h2>
+                            <p>Likes</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="single_fun_facts">
+                            <i class="pe-7s-comment"></i>
+                            <h2><span  class="counter_num">199</span> <span>+</span></h2>
+                            <p>Feedbacks</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="single_fun_facts">
+                            <i class="pe-7s-cup"></i>
+                            <h2><span  class="counter_num">10</span> <span>+</span></h2>
+                            <p>Awards</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- END FUN FACTS -->
 
 
 
