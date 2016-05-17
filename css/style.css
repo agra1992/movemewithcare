@@ -88,7 +88,16 @@ p {
     margin-top: -100px
 }
 .navbar-brand {
-    padding: 9px 15px;
+    padding: 13px 15px;
+}
+
+.navbar-brand-link {
+    color: #F39C20;
+}
+
+.navbar-brand-link:hover {
+    color: #F39C12;
+    text-decoration: none;
 }
 
 .navbrand {
@@ -313,13 +322,40 @@ tuor:visited {
 .single_about_area:hover div i {
     color: #f39c12;
 }
-.about_phone img {} @media (min-width: 991px) and (max-width: 1200px) {
+.about_phone img {
+    width: 120%;
+} 
+
+@media (min-width: 991px) and (max-width: 1200px) {
     .about_phone img {
-        margin-top: 184px;
-        width: 80%;
-        margin-right: 20%
+        width: 120%;
     }
 }
+
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+    .about_phone img {
+        width: 150%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    .about_phone img {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .about_phone img {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .about_phone img {
+        display: none;
+    }
+}
+
 /*---------------------------------------
    SECTION VIDEO              
 -----------------------------------------*/
@@ -1113,15 +1149,13 @@ Menu Items
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
     .menu-container {
-        width: 428px;
-        margin: 0 auto;
+        display: none;
     }
 }
 
 @media only screen and (max-width: 479px) {
     .menu-container {
-        width: 320px;
-        margin: 0 auto;
+        display: none;
     }
 }
 
@@ -1750,6 +1784,22 @@ SERVICES SECTION
 
 .spotlight:nth-child(2) {
     background: rgba(0, 0, 0, 0.15);
+}
+
+.spotlight:nth-child(3) {
+    background: rgba(0, 0, 0, 0.225);
+}
+
+.spotlight:nth-child(4) {
+    background: rgba(0, 0, 0, 0.075);
+}
+
+.spotlight:nth-child(5) {
+    background: rgba(0, 0, 0, 0.15);
+}
+
+.spotlight:nth-child(6) {
+    background: rgba(0, 0, 0, 0.225);
 }
 
 .spotlight:nth-child(2n) {

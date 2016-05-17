@@ -33,6 +33,9 @@ $(document).ready(function() {
             $(".navbar-default").css({
                 'background-color': 'rgba(59, 59, 59, 0.7)'
             });
+            $(".component").css({
+                'display': 'block'
+            });
         } else {
             $(".navbar").css({
                 'margin-top': '-100px',
@@ -49,6 +52,9 @@ $(document).ready(function() {
             });
             $(".navbar-default").css({
                 'background-color': 'rgba(59, 59, 59, 0)'
+            });
+            $(".component").css({
+                'display': 'none'
             });
         }
     });

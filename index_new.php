@@ -52,12 +52,30 @@
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
 
+    <link rel="stylesheet" type="text/css" href="css/tooltipster.css" />
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.0.min.js"></script>
+    <script type="text/javascript" src="js/jquery.tooltipster.min.js"></script>
+
+
+    <!-- CSS and JS for circle menu -->
+    <!--<link rel="stylesheet" type="text/css" href="css/normalize.css" />-->
+    <!--<link rel="stylesheet" type="text/css" href="css/demo.css" />-->
+    <link rel="stylesheet" type="text/css" href="css/component1.css" />
+    <script src="js/modernizr-2.6.2.min.js"></script>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
 	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 	  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<![endif]-->
+
+    <style type="text/css">
+        .component {
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
@@ -72,6 +90,24 @@
 
  <!-- END PRELOADER -->
 
+ <!-- Persistent Menu -->
+    <div class="component">
+        <!-- Start Nav Structure -->
+        <button class="cn-button" id="cn-button" title="Click to use one of our services.">+</button>
+        <div class="cn-wrapper" id="cn-wrapper">
+            <ul>
+              <li><a href="#"><i class="fa fa-angle-down"></i></a></li>
+              <li><a href="#"><span class="icon-headphones"></span></a></li>
+              <li><a href="#"><span class="icon-home"></span></a></li>
+              <li><a href="#"><span class="icon-facetime-video"></span></a></li>
+              <li><a href="#"><span class="icon-envelope-alt"></span></a></li>
+             </ul>
+        </div>
+        <div id="cn-overlay" class="cn-overlay"></div>
+        <!-- End Nav Structure -->
+    </div>
+
+<!-- Persistent Menu -->
  <!-- =========================
      START ABOUT US SECTION
 ============================== -->
@@ -88,9 +124,9 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">
-                            MOVE<span style="color: #F39C13">ME</span>WITHCARE<small>.com</small>
-                        </a>
+                        <div class="navbar-brand">
+                            <a class="navbar-brand-link" href="http://www.movemewithcare.com">MOVEMEWITHCARE<small>.com</small></a>
+                        </div>
                     </div>
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -100,7 +136,7 @@
                             <li><a href="#ABOUT">ABOUT US</a> </li>
                             <li><a href="#FEATURES">OUR SERVICES</a> </li>
                             <li><a href="#SCREENS">TESTIMONIALS</a> </li>
-                            <li><a href="#DOWNLOAD">CONTACT US</a> </li>
+                            <li><a href="#CONTACT">CONTACT US</a> </li>
                             
                         </ul>
                     </div>
@@ -119,7 +155,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-8 col-xs-8">
+                    <div class="col-md-8 col-sm-8 col-xs-12">
                         <div class="home_text">
                             <!-- TITLE AND DESC -->
                             <h1>We are the moving network for USA/Canada</h1>
@@ -131,7 +167,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 col-md-offset-1 col-xs-4">
+                    <div class="col-md-3 col-md-offset-1 col-sm-4">
                         <!--<div class="home-iphone">
                             <img src="images/new/iPhone_Home.png" alt="">
                         </div>-->
@@ -143,7 +179,7 @@
                                             <strong>Menu</strong>
                                         </li>
                                         <li>
-                                            <a href="http://www.movemewithcare.com/index_new.php/">
+                                            <a href="http://www.movemewithcare.com/index_new.php">
                                                 <i class="fa fa-home"></i>
                                                 <strong>Home</strong>
                                             </a>
@@ -173,7 +209,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="">
+                                            <a>
                                                 <i class="fa fa-truck"></i>
                                                 <strong>Our Services</strong>
                                             </a>
@@ -426,62 +462,114 @@
 
     </section>
     -->
+    <section id="FEATURES" class="features page">
+        <div class="container" style="color: #fff !important">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <!-- ABOUT US SECTION TITLE-->
+                    <div class="section_title">
+                        <h2>Our Services</h2>
+                        <p>We have many many services for you! Just tell us what you want!</p>
+                    </div>
+                </div>
 
-    <section id="FEATURES" class="wrapper alt style2">
-        <section class="spotlight">
-            <div class="image wow fadeInLeft">
-                <img src="images/new/feature1.jpg">
             </div>
-            <div class="content wow fadeInRight">
-                    <h2>Loading and Unloading Help</h2>
-                    <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
-            </div>
-        </section>
-        <section class="spotlight">
-            <div class="image wow fadeInLeft">
-                <img src="images/new/feature1.jpg">
-            </div>
-            <div class="content wow fadeInRight">
-                    <h2>Loading and Unloading Help</h2>
-                    <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
-            </div>
+        </div>
+        <section class="wrapper alt style2">
+        
+            <section class="spotlight">
+                <div class="image wow fadeInLeft">
+                    <img src="images/new/feature1.jpg">
+                </div>
+                <div class="content wow fadeInRight">
+                        <h2>Loading and Unloading Help</h2>
+                        <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
+                </div>
+            </section>
+            <section class="spotlight">
+                <div class="image wow fadeInRight">
+                    <img src="images/new/feature2.jpg">
+                </div>
+                <div class="content wow fadeInLeft">
+                        <h2>Transportation Logistics Provider</h2>
+                        <p>Certified transportation logistic providers,Intrastate (local) exclusively!</p>
+                </div>
+            </section>
+            <section class="spotlight">
+                <div class="image wow fadeInLeft">
+                    <img src="images/new/feature3.jpg">
+                </div>
+                <div class="content wow fadeInRight">
+                        <h2>Ship Cars</h2>
+                        <p>Interstate (out-of-state) transportation, we also ship cars nationwide.</p>
+                </div>
+            </section>
+            <section class="spotlight">
+                <div class="image wow fadeInRight">
+                    <img src="images/new/feature4.jpg">
+                </div>
+                <div class="content wow fadeInLeft">
+                        <h2>Storage Facilities and PODS</h2>
+                        <p>Storage facilities and PODS, portable containers, storage containers, On-demand storage.</p>
+                </div>
+            </section>
+            <section class="spotlight">
+                <div class="image wow fadeInLeft">
+                    <img src="images/new/feature5.jpg">
+                </div>
+                <div class="content wow fadeInRight">
+                        <h2>Boxes and Other Packing Supplies</h2>
+                        <p>Boxes and other packing supplies that you can purchase at discount prices.Packing and unpacking services also available at your convenience.</p>
+                </div>
+            </section>
+            <section class="spotlight">
+                <div class="image wow fadeInRight">
+                    <img src="images/new/feature6.jpg">
+                </div>
+                <div class="content wow fadeInLeft">
+                        <h2>All of the above</h2>
+                        <p>Or all of the above (full-service accredited and certified movers) to help you move locally, long distance or Overseas.</p>
+                </div>
+            </section>
         </section>
     </section>
+    
+    
 <!-- =========================
      Start FUN FACTS
 ============================== -->
 
 
-    <section class="fun_facts parallax">
+    <section class="fun_facts parallax page">
         <div class="section_overlay">
             <div class="container wow bounceInLeft" data-wow-duration="1s">
                 <div class="row text-center">
                     <div class="col-md-3">
                         <div class="single_fun_facts">
-                            <i class="pe-7s-cloud-download"></i>
-                            <h2><span  class="counter_num">699</span> <span>+</span></h2>
-                            <p>Downloads</p>
+                            <i class="pe-7s-users"></i>
+                            <h2><span  class="counter_num">5000</span> <span>+</span></h2>
+                            <p>Happy clients till date</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="single_fun_facts">
-                            <i class="pe-7s-look"></i>
-                            <h2><span  class="counter_num">1999</span> <span>+</span></h2>
-                            <p>Likes</p>
+                            <i class="pe-7s-clock"></i>
+                            <h2><span  class="counter_num">15</span> <span>+</span></h2>
+                            <p>Years of experience in moving</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="single_fun_facts">
-                            <i class="pe-7s-comment"></i>
-                            <h2><span  class="counter_num">199</span> <span>+</span></h2>
-                            <p>Feedbacks</p>
+                            <i class="pe-7s-car"></i>
+                            <h2><span  class="counter_num">2000</span> <span>+</span></h2>
+                            <p>Accredited movers on our roster</p>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="single_fun_facts">
                             <i class="pe-7s-cup"></i>
-                            <h2><span  class="counter_num">10</span> <span>+</span></h2>
-                            <p>Awards</p>
+                            <h2><span  class="counter_num">15</span> <span>+</span></h2>
+                            <p>Awards received</p>
                         </div>
                     </div>
                 </div>
@@ -505,7 +593,7 @@
                 <div class="col-md-6">
                     <div class="copy_right_text">
                     <!-- COPYRIGHT TEXT -->
-                        <p>Copyright &copy; 2016 <a href="">Bent</a> <span>By </span><a href="http://designscrazed.org/">Designscrazed</a></p>
+                        <p>Copyright &copy; 2016 <a href="http://movemewithcare.com/index_new.php">MoveMeWithCare.com</a> <span>Developed By </span><a href="http://agradeepk.com/" target="_blank">Agradeep K</a></p>
                     </div>
                 </div>
 
@@ -539,6 +627,9 @@
     <script src="js/waypoints.min.js"></script>
     <script src="js/jquery.counterup.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/polyfills.js"></script>
+    <script src="js/demo1.js"></script>
+
 </body>
 
 </html>
