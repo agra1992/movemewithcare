@@ -36,6 +36,7 @@ $(document).ready(function() {
             $(".component").css({
                 'display': 'block'
             });
+            
         } else {
             $(".navbar").css({
                 'margin-top': '-100px',

@@ -1,6 +1,3 @@
-<? 
- session_start();
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -52,15 +49,7 @@
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="css/tooltipster.css" />
-
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.0.min.js"></script>
-    <script type="text/javascript" src="js/jquery.tooltipster.min.js"></script>
-
-
     <!-- CSS and JS for circle menu -->
-    <!--<link rel="stylesheet" type="text/css" href="css/normalize.css" />-->
-    <!--<link rel="stylesheet" type="text/css" href="css/demo.css" />-->
     <link rel="stylesheet" type="text/css" href="css/component1.css" />
     <script src="js/modernizr-2.6.2.min.js"></script>
 
@@ -76,6 +65,10 @@
             display: none;
         }
     </style>
+
+    <script type="text/javascript">
+        $(document).tooltip({show: null});
+    </script>
 </head>
 
 <body>
@@ -93,18 +86,23 @@
  <!-- Persistent Menu -->
     <div class="component">
         <!-- Start Nav Structure -->
-        <button class="cn-button" id="cn-button" title="Click to use one of our services.">+</button>
+        <button class="cn-button" id="cn-button" title="Click here to view our services">+</button>
         <div class="cn-wrapper" id="cn-wrapper">
             <ul>
-              <li><a href="#"><i class="fa fa-angle-down"></i></a></li>
-              <li><a href="#"><span class="icon-headphones"></span></a></li>
-              <li><a href="#"><span class="icon-home"></span></a></li>
-              <li><a href="#"><span class="icon-facetime-video"></span></a></li>
-              <li><a href="#"><span class="icon-envelope-alt"></span></a></li>
+              <li title="Full Service Movers"><a href="#"><i class="fa fa-truck"></i></a></li>
+              <li title="Loading/Unloading Help"><a href="#"><i class="fa fa-hand-rock-o"></i></a></li>
+              <li title="Transportation Help"><a href="#"><i class="fa fa-rocket"></i></a></li>
+              <li title="Storage Facilities"><a href="#"><i class="fa fa-cube"></i></a></li>
+              <li title="Packing Supplies and Materials"><a href="#"><i class="fa fa-suitcase"></i></a></li>
              </ul>
         </div>
         <div id="cn-overlay" class="cn-overlay"></div>
         <!-- End Nav Structure -->
+        <!--
+        <div class="alert alert-info">
+            <p><strong>Click here</strong> to view our services</p>
+        </div>
+        -->
     </div>
 
 <!-- Persistent Menu -->
@@ -482,8 +480,12 @@
                     <img src="images/new/feature1.jpg">
                 </div>
                 <div class="content wow fadeInRight">
-                        <h2>Loading and Unloading Help</h2>
-                        <p>Which includes exclusively countrywide/nationwide certified labor when you have rented your own rental truck.</p>
+                        <h2>Full Service Movers</h2>
+                        <p>Choose “full-service” if you want movers to help you with everything from packing and loading, to unloading and unpacking. Transportation and storage are included, so that you can kick back and relax, knowing your furniture and personal items will reach their destination safely and efficiently. When our network members compete for your business, you save money!</p>
+                        <div class="download-btn">
+                            <!-- BUTTON -->
+                            <a class="btn home-btn wow fadeInLeft" href="#">Get me moving <i class="fa fa-angle-double-right"></i></a>
+                        </div>
                 </div>
             </section>
             <section class="spotlight">
@@ -491,8 +493,13 @@
                     <img src="images/new/feature2.jpg">
                 </div>
                 <div class="content wow fadeInLeft">
-                        <h2>Transportation Logistics Provider</h2>
-                        <p>Certified transportation logistic providers,Intrastate (local) exclusively!</p>
+                        <h2>Loading and Unloading Help</h2>
+                        <p>Loading and unloading can be a pain in the neck – literally. Let our relocation professionals handle your heavy furniture and fragile heirlooms. All movers have linear pricing and there is a three hour minimum on all jobs performed. If you need to rent a moving truck as well, click here. For PODS and other storage facilities, click here. For full-service movers, click here.</p>
+
+                        <div class="download-btn">
+                            <!-- BUTTON -->
+                            <a class="btn home-btn wow fadeInLeft" href="#">Get my stuff loaded <i class="fa fa-angle-double-right"></i></a>
+                        </div>
                 </div>
             </section>
             <section class="spotlight">
@@ -500,8 +507,13 @@
                     <img src="images/new/feature3.jpg">
                 </div>
                 <div class="content wow fadeInRight">
-                        <h2>Ship Cars</h2>
-                        <p>Interstate (out-of-state) transportation, we also ship cars nationwide.</p>
+                        <h2>Transportation Help</h2>
+                        <p>Whether your move is local or long-distance, <span style="color: #F39C12">MoveMewithcare.com</span> can provide you with truck rental locations and, if you prefer, experienced and accredited drivers (interstate move). If you choose this option, you will need to do your own packing. For loading and unloading services, click here. Click here for packing supplies vendors and tips on how to protect your belongings during relocation and storage.</p>
+
+                        <div class="download-btn">
+                            <!-- BUTTON -->
+                            <a class="btn home-btn wow fadeInLeft" href="#">Get me transport <i class="fa fa-angle-double-right"></i></a>
+                        </div>
                 </div>
             </section>
             <section class="spotlight">
@@ -510,7 +522,12 @@
                 </div>
                 <div class="content wow fadeInLeft">
                         <h2>Storage Facilities and PODS</h2>
-                        <p>Storage facilities and PODS, portable containers, storage containers, On-demand storage.</p>
+                        <p>You can ease the stress of moving by planning ahead. One option is storing some of your belongings. Here you will find storage and warehousing facilities with 24-hour surveillance, gated entry with security pass code, and on-site staff to serve your needs. If you need to rent a moving truck as well, click here. For packing supplies and advice, click here. For loading and unloading services, click here. For full-service movers, click here.</p>
+
+                        <div class="download-btn">
+                            <!-- BUTTON -->
+                            <a class="btn home-btn wow fadeInLeft" href="#">Ease my work <i class="fa fa-angle-double-right"></i></a>
+                        </div>
                 </div>
             </section>
             <section class="spotlight">
@@ -519,18 +536,15 @@
                 </div>
                 <div class="content wow fadeInRight">
                         <h2>Boxes and Other Packing Supplies</h2>
-                        <p>Boxes and other packing supplies that you can purchase at discount prices.Packing and unpacking services also available at your convenience.</p>
+                        <p>Here you will find FREE packing tips and recommendations on how to protect your items from the moisture and heat of a storage facility. Contact us to get your free manual. Once your packing is done, you can also request our loading services, click here. Don’t forget that our full-service movers provide you with packing services.</p>
+
+                        <div class="download-btn">
+                            <!-- BUTTON -->
+                            <a class="btn home-btn wow fadeInLeft" href="#">Help me pack <i class="fa fa-angle-double-right"></i></a>
+                        </div>
                 </div>
             </section>
-            <section class="spotlight">
-                <div class="image wow fadeInRight">
-                    <img src="images/new/feature6.jpg">
-                </div>
-                <div class="content wow fadeInLeft">
-                        <h2>All of the above</h2>
-                        <p>Or all of the above (full-service accredited and certified movers) to help you move locally, long distance or Overseas.</p>
-                </div>
-            </section>
+
         </section>
     </section>
     
@@ -580,6 +594,68 @@
     <!-- END FUN FACTS -->
 
 
+<!-- =========================
+     START CONTCT FORM AREA
+============================== -->
+    <section class="contact page" id="CONTACT">
+        <div class="section_overlay">
+            <div class="container">
+                <div class="col-md-10 col-md-offset-1 wow bounceIn">
+                    <!-- Start Contact Section Title-->
+                    <div class="section_title">
+                        <h2>Get in touch</h2>
+                        <p>Do you have any queries? Or want to know more? We would be happy to help you and get you moving in the right direction.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="contact_form wow bounceIn">
+                <div class="container">
+
+                <!-- START ERROR AND SUCCESS MESSAGE -->
+                    <div class="form_error text-center">
+                        <div class="name_error hide error">Please Enter your name</div>
+                        <div class="email_error hide error">Please Enter your Email</div>
+                        <div class="email_val_error hide error">Please Enter a Valid Email Address</div>
+                        <div class="message_error hide error">Please Enter Your Message</div>
+                    </div>
+                    <div class="Sucess"></div>
+                <!-- END ERROR AND SUCCESS MESSAGE -->
+
+                <!-- FORM -->    
+                    <form role="form">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <input type="text" class="form-control" id="name" placeholder="Name">
+                                <input type="email" class="form-control" id="email" placeholder="Email">
+                                <input type="text" class="form-control" id="subject" placeholder="Subject">
+                            </div>
+
+
+                            <div class="col-md-8">
+                                <textarea class="form-control" id="message" rows="25" cols="10" placeholder="  Message Texts..."></textarea>
+                                <button type="button" class="btn btn-default submit-btn form_submit">SEND MESSAGE</button>
+                            </div>
+                        </div>
+                    </form>
+                    <!-- END FORM --> 
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 wow bounceInLeft">
+                        <div class="social_icons">
+                            <ul>
+                                <li>Or you can call us on our toll free number <i class="fa fa-mobile"></i> <span style="color: #F39C13"><strong>877-963-SAVE(7283)</strong></span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END CONTACT -->
 
 
 <!-- =========================
@@ -593,7 +669,7 @@
                 <div class="col-md-6">
                     <div class="copy_right_text">
                     <!-- COPYRIGHT TEXT -->
-                        <p>Copyright &copy; 2016 <a href="http://movemewithcare.com/index_new.php">MoveMeWithCare.com</a> <span>Developed By </span><a href="http://agradeepk.com/" target="_blank">Agradeep K</a></p>
+                        <p>Copyright &copy; 2016 <a href="http://www.movemewithcare.com/index_new.php">MoveMeWithCare.com</a> <span>Developed By </span><a href="http://www.agradeepk.com/" target="_blank">Agradeep K</a></p>
                     </div>
                 </div>
 
