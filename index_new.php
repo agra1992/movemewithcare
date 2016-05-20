@@ -177,7 +177,7 @@
                                             <strong>Menu</strong>
                                         </li>
                                         <li>
-                                            <a href="http://www.movemewithcare.com/index_new.php">
+                                            <a style="color: #F39C13 !important">
                                                 <i class="fa fa-home"></i>
                                                 <strong>Home</strong>
                                             </a>
@@ -201,7 +201,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="">
+                                            <a href="http://www.movemewithcare.com/mem2_new.php" class="transition">
                                                 <i class="fa fa-thumbs-o-up"></i>
                                                 <strong>Become a Member</strong>
                                             </a>

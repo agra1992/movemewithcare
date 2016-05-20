@@ -1,0 +1,166 @@
+#TERMS { 
+        padding: 0;
+        margin: 0 auto;
+        background-image: url(../images/new/generic-bg.jpg);
+        position: relative;
+    }
+
+    #TERMS p {
+        font-size: 1.3em;
+    }
+
+    #TERMS h2,h3,h4,h5 {
+        font-size: 1.3em;
+        margin-top: 2em;
+        line-height: 150%;
+        text-align: center;
+        position: relative;
+        z-index: 2;
+    }
+
+    #TERMS h4 {
+        font-size: 1.19em;
+        margin-top: 2em;
+        line-height: 150%;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    #TERMS h5 {
+        font-size: 1em;
+        text-align: center !important;
+    }
+
+    #TERMS .section-header {
+        text-align: center;
+    }
+
+    #TERMS .section-header-h2 {
+        font-size: 2em;
+        font-weight: 600;
+    }
+
+    #TERMS-picture {
+        margin-top: 50px;
+        width: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;
+        border: 5px solid #222222;
+    }
+
+    #TERMS-TERMS {
+        position: absolute;
+        width: 20em;
+        opacity: 0.3;
+        margin-left: 22%;
+    }
+
+    #TERMS .num1,.num2,.num3,.num4,.num5,.num6 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+        height: 120px;
+        width: 120px;
+        text-align: center;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizelegibility;
+    }
+
+    #TERMS .num1{
+        background: #E8C04F;
+    }
+
+    #TERMS .num2 {
+        background: #66A3C6;
+    }
+
+    #TERMS .num3 {
+        background: #9D9ABF;
+    }
+
+    #TERMS .num4 {
+        background: #E84F5E;
+    }
+
+    #TERMS .num5 {
+        background: #6BBC79;
+    }
+
+    #TERMS .num6 {
+        background: #434444;
+    }
+
+    #TERMS .num-content {
+        align-self: center;
+    }
+
+    .btn-container {
+        text-align: center;
+    }
+    /*
+    @media(max-width:768px) {
+        #TERMS {
+            padding-left: 5px;
+            font-size: 0.8em;
+            min-height: 800px;
+            width: 100%;
+        }
+
+        h3 {
+            margin-left: -20px;
+        }
+
+        #TERMS-picture {
+            width: 7em;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            margin-left: -20px;
+            width: 100px;
+        }
+
+        #TERMS-TERMS {
+            margin-left: -10px;
+        }
+
+        #TERMS .num1,.num2,.num3 {
+            margin-top: 5px;
+            margin-bottom: 5px;
+            font-size: 15px;
+            line-height: 12px;
+            height: 110px;
+            width: 110px;
+            text-align: center;
+            padding-top: 40px;
+            margin-left: -20px;
+        }
+
+        #TERMS .num1 span {
+            display: block;
+            font-size: 10px;
+            font-weight: normal;
+        }
+
+        #TERMS .num2 span {
+            display: block;
+            font-size: 10px;
+            font-weight: normal;
+        }
+
+        #TERMS .num3 span {
+            display: block;
+            font-size: 10px;
+            font-weight: normal;
+        }
+
+    }*/
