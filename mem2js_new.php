@@ -141,7 +141,7 @@ function show_selected() {
 			{
 				if (form1.city.options[i].selected)
 				{
-					Selcity[Selcity.length] = form1.city.options[i].value;					
+					Selcity[Selcity.length] = form1.city.options[i].value;
 				}
 			}
 		}

@@ -1,7 +1,7 @@
 <? 
  session_start();
 ?>
-
+    
     <meta name="author" content="ProAce International, owner of Movemewithcare.com, the #1 Accredited and certified moving network for USA and Canada." />
     <meta name="Copyright" content="© 2006-2010 Movemewithcare.com.All Rights Reserved" />
     <meta name="language" content="en-us" />
@@ -10,7 +10,6 @@
     <meta name="revisit-after" content="30 days" />
     <meta name="robots" content="ALL" />
     <script src="images/flash.js" type="text/javascript"></script>
-    <link href="images/css1.css" rel="stylesheet" type="text/css" />
     <? 
       include "prerequisites.php";
       #session_register("browser");
@@ -25,6 +24,12 @@
        or die("Could not connect");
       mysqli_select_db($link, $db_locator_name) or die("Could not select database");
       ?>
+
+      <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+      <script type="text/javascript">
+        _uacct = "UA-3315693-1";
+        urchinTracker();
+      </script>
     <!--[if IE 7]>
     <style type="text/css">
       #rtext{align:top;width:400px;height: 200px!important;height:20px;margin-left:430px;text-align: left;content: "";margin-top:-150px;}    
@@ -72,7 +77,7 @@
 
     <!-- Style -->
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/style_tnc.css" rel="stylesheet">
+    <link href="css/style_becomemember.css" rel="stylesheet">
 
     <link href="css/animate.css" rel="stylesheet">
     <!-- Responsive CSS -->
@@ -156,7 +161,7 @@
 
                             <div class="download-btn">
                             <!-- BUTTON -->
-                                <a class="tuor btn wow fadeInRight" href="#TERMS">Continue Below <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                <a class="tuor btn wow fadeInRight" href="#MEMBER">Continue Below <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                             </div>
                         </div>
                     </div>

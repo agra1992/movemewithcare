@@ -772,6 +772,85 @@
 	
 	
 	?>
+
+	<section id="MEMBER">
+		<div class="container">
+			<div class="row">
+			    <div class="col-md-10 col-md-offset-1">
+			        <!-- ABOUT US SECTION TITLE-->
+			        <div class="section_title">
+			            <h2>Become a <span style="color: #F39C13;">MoveMeWithCare.com</span> member</h2>
+			            <p>Please fill in the information below to register as an accredited mover with us.</p>
+			        </div>
+			    </div>
+
+			</div>
+		</div>
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h3 style="text-align: center;">What kind of services do you want to offer?<br /><br /><small><strong>Please click on the corresponding service below. If you do offer more then one, please re-register for the other services</strong></small></h3>
+					
+					<form role="form" name="form1" id="form1" method="post" action="" enctype="multipart/form-data">
+						<div class="contact_form wow bounceIn">
+			                <div class="container">			                    
+		                        <div class="row">
+			                        <div class="col-md-12">
+			                        	<input name="type" type="radio" onClick="setdata()" value="standard" id="standard">
+										<label for="standard" class="lists">Loading/Unloading Assistance</label><br />
+										<input type="radio" name="type" value="full" onClick="setdata()" id="full">        
+										<label for="full" class="lists">Full service (Includes Packing, Loading, Transportation, Unloading, Unpacking and Warehousing)</label>
+										<!--(<strong><s>$250</s> $100/month special price</strong>)--> <br />
+										<input type="radio" name="type" value="transport" onClick="setdata()" id="transport">        
+										<label for="transport" class="lists">Transportation Services (Includes Local truck rental, long distance truck rental, truck with drivers, portable storage system)</label>
+										<br />
+										<input type="radio" name="type" value="storage" onClick="setdata()" id="storage">        
+										<label for="storage" class="lists">Storage Facility (Provide storage locally and nationally, corporate storage facility providers, franchises, etc..)</label>
+										<br />
+										<input type="radio" name="type" value="packing" onClick="setdata()" id="packing">        
+										<label for="packing" class="lists">Packing Supplies (All packing supplies providers able to ship locally and nationwide)</label>   
+										<br />
+										<input type="radio" name="type" value="market" onClick="setdata()" id="market">        
+										<label for="market" class="lists">Marketplace (A variety of services)</label>   
+										<br />
+										<input type="radio" name="type" value="deadhaul" onClick="setdata()" id="deadhaul">        
+										<label for="deadhaul" class="lists">Deadhaul</label>
+
+										
+			                            <br>
+		
+										<div id="Agreement">
+											<script src="scripts/includethis.js"></script>
+											<!--<script src="scripts/prototype.js" type="text/javascript"></script>
+												<script src="scripts/scriptaculous.js" type="text/javascript"></script>
+												<script>
+												function handleError() {
+												return true;
+												}
+												window.onerror = handleError;
+												ajaxinclude("affagreement.html");
+												var agreed=false;
+												</script>-->
+											<br />
+											<!--<input type="button" class="button" onclick="Effect.Puff('Agreement');agreed=true;" value="Agree"/>
+												<input type="button" class="button" onclick="window.location='index.php';" value="Disagree"/>-->
+										</div>
+										<tr>
+											<td><?echo"$captcha_html";?></td>
+										</tr>
+										<div id="newmember"></div>
+			                        </div>
+		                        </div>
+			                </div>
+			            </div>
+					</form>
+				</div>
+			</div>
+		</div>
+		
+	</section>
+<!--
 <p align="center"><strong><font size="-1" face="Arial, Helvetica, sans-serif">Become a 
 	MoveMeWithCare.com member</font></strong>
 </p>
@@ -795,7 +874,7 @@
 				<label for="standard" class="lists">Loading/Unloading Assistance</label><br />
 				<input type="radio" name="type" value="full" onClick="setdata()" id="full">        
 				<label for="full" class="lists">Full service (Includes Packing, Loading, Transportation, Unloading, Unpacking and Warehousing)</label>
-				<!--(<strong><s>$250</s> $100/month special price</strong>)--> <br />
+				<!--(<strong><s>$250</s> $100/month special price</strong>)-- <br />
 				<input type="radio" name="type" value="transport" onClick="setdata()" id="transport">        
 				<label for="transport" class="lists">Transportation Services (Includes Local truck rental, long distance truck rental, truck with drivers, portable storage system)</label>
 				<br />
@@ -812,55 +891,35 @@
 				<label for="deadhaul" class="lists">Deadhaul</label>   
 				<br />
 			</td>
-			<td>
-				<img src='/images/Deadhaul.gif'>
-			</td>
+
 		</tr>
-	</table>
-	<br>
-	<style>
-		#Agreement{
-		background-image: url(semi.gif);
-		width: 100%;
-		height: 100%;
-		top: 160px;
-		left: 50px;
-		height: 300px;
-		width: 800px;
-		z-index: 1000;
-		visibility: hidden;
-		position:absolute;
-		text-align:center;
-		}
-	</style>
-	<div id="Agreement">
-		<script src="scripts/includethis.js"></script>
-		<!--<script src="scripts/prototype.js" type="text/javascript"></script>
-			<script src="scripts/scriptaculous.js" type="text/javascript"></script>
-			<script>
-			function handleError() {
-			return true;
-			}
-			window.onerror = handleError;
-			ajaxinclude("affagreement.html");
-			var agreed=false;
-			</script>-->
-		<br />
-		<!--<input type="button" class="button" onclick="Effect.Puff('Agreement');agreed=true;" value="Agree"/>
-			<input type="button" class="button" onclick="window.location='index.php';" value="Disagree"/>-->
-	</div>
-	<tr>
-		<td><?echo"$captcha_html";?></td>
-	</tr>
-	<span id="newmember">
-	</span>
-	</div>
-</form>
-</td>
-</tr>
-</table>
-</div>
-</div>
+	</table>-->
+	
+
+	<!-- =========================
+     FOOTER 
+    ============================== -->
+
+    <section class="copyright">
+        <h2></h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="copy_right_text">
+                    <!-- COPYRIGHT TEXT -->
+                        <p>Copyright &copy; 2016 <a href="http://www.movemewithcare.com/index_new.php">MoveMeWithCare.com</a> <span>Developed By </span><a href="http://www.agradeepk.com/" target="_blank">Agradeep K</a></p>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="scroll_top">
+                        <a href="#HOME"><i class="fa fa-angle-up"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END FOOTER -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.js"></script>

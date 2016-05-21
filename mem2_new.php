@@ -235,17 +235,17 @@
      T&C 
     ============================== -->
     <section id="TERMS">
-            <div class="container">
-              <div class="row">
-                  <div class="col-md-10 col-md-offset-1">
-                      <!-- ABOUT US SECTION TITLE-->
-                      <div class="section_title">
-                          <h2>Terms &amp; Conditions</h2>
-                          <p><strong><span style="color: #F39C12;">Movemewithcare.com</span> Terms of Service</strong><br/>Rules and regulations for all customers and accredited moving companies to abide by.</p>
-                      </div>
-                  </div>
+          <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <!-- ABOUT US SECTION TITLE-->
+                    <div class="section_title">
+                        <h2>Terms &amp; Conditions</h2>
+                        <p><strong><span style="color: #F39C12;">Movemewithcare.com</span> Terms of Service</strong><br/>Rules and regulations for all customers and accredited moving companies to abide by.</p>
+                    </div>
+                </div>
 
-              </div>
+            </div>
           </div>
           <div class="container">
             <div class="row">
